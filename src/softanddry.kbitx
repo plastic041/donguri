@@ -9,14 +9,25 @@
 <prop id="xHeight" value="8"/>
 <prop id="capHeight" value="0"/>
 <prop id="newGlyphWidth" value="8"/>
-<name id="1" value="Soft N Dry"/>
+<name id="0" value="Donguri16 Project Authors; Copyright (c) 2026 plastic041@icloud.com"/>
+<name id="1" value="Donguri16"/>
 <name id="2" value="Regular"/>
-<name id="3" value="BitsNPicas: SoftNDry: 2026"/>
-<name id="4" value="Soft N Dry Regular"/>
-<name id="5" value="Version 1.0"/>
-<name id="6" value="SoftNDry"/>
-<name id="8" value="Made with Bits&#39;n&#39;Picas by Kreative Software"/>
-<name id="11" value="http://www.kreativekorp.com/software/bitsnpicas/"/>
+<name id="3" value="Donguri16"/>
+<name id="4" value="Donguri16"/>
+<name id="5" value="2026-08-16"/>
+<name id="6" value="Donguri16"/>
+<name id="8" value="Donguri16 Project Authors; plastic041@icloud.com"/>
+<name id="9" value="Donguri16 Project Authors; plastic041@icloud.com"/>
+<name id="11" value="https://github.com/plastic041/donguri16; https://snubi.net"/>
+<name id="12" value="https://github.com/plastic041/donguri16; https://snubi.net"/>
+<name id="13" value="Open Font License"/>
+<name id="14" value="https://openfontlicense.org"/>
+<name id="16" value="Donguri16"/>
+<name id="17" value="Regular"/>
+<name id="18" value="Donguri16"/>
+<name id="20" value="Donguri16"/>
+<name id="21" value="Donguri16"/>
+<name id="22" value="Regular"/>
 <g u="32" x="0" y="0" w="8" d="AAA"/>
 <g u="33" x="3" y="12" w="8" d="DQFJAkI"/>
 <g u="34" x="2" y="12" w="8" d="AwPC/wBCAULCAP8"/>

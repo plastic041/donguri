@@ -1,8 +1,8 @@
 {
-  "name": "softanddry_hangul",
+  "name": "DonguriX14Y15",
   "components": [
     {
-      "id": "lgm16-chosung-0-0",
+      "id": "DonguriX14Y15-chosung-0-0",
       "bitmap": "0000000000003f00008000800080008000800100010002000c00300000000000",
       "type": "chosung",
       "typeIndex": 0,
@@ -12,7 +12,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-0-1",
+      "id": "DonguriX14Y15-chosung-0-1",
       "bitmap": "000000003f80004000400040008003003c000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 0,
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-0-6",
+      "id": "DonguriX14Y15-chosung-0-6",
       "bitmap": "0000000000003e00010001000100010001000200020004000800300000000000",
       "type": "chosung",
       "typeIndex": 0,
@@ -32,7 +32,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-0-7",
+      "id": "DonguriX14Y15-chosung-0-7",
       "bitmap": "000000003e0001000100010002000c0030000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 0,
@@ -42,7 +42,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-0-4",
+      "id": "DonguriX14Y15-chosung-0-4",
       "bitmap": "0000000000003e00010001000100010001000200020004000800300000000000",
       "type": "chosung",
       "typeIndex": 0,
@@ -52,7 +52,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-0-5",
+      "id": "DonguriX14Y15-chosung-0-5",
       "bitmap": "000000003f000080008000800100060038000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 0,
@@ -62,7 +62,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-0-8",
+      "id": "DonguriX14Y15-chosung-0-8",
       "bitmap": "0000000000001ff8000400040004000400040004000400080008000000000000",
       "type": "chosung",
       "typeIndex": 0,
@@ -72,7 +72,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-0-9",
+      "id": "DonguriX14Y15-chosung-0-9",
       "bitmap": "000000001ff80004000400040008000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 0,
@@ -82,7 +82,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-0-14",
+      "id": "DonguriX14Y15-chosung-0-14",
       "bitmap": "0000000000003f80004000400040004000400040008000800000000000000000",
       "type": "chosung",
       "typeIndex": 0,
@@ -92,7 +92,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-0-15",
+      "id": "DonguriX14Y15-chosung-0-15",
       "bitmap": "000000003f800040004000400080000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 0,
@@ -102,7 +102,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-0-12",
+      "id": "DonguriX14Y15-chosung-0-12",
       "bitmap": "0000000000003e00010001000100010001000100020002000000000000000000",
       "type": "chosung",
       "typeIndex": 0,
@@ -112,7 +112,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-0-13",
+      "id": "DonguriX14Y15-chosung-0-13",
       "bitmap": "000000003f000080008000800100000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 0,
@@ -122,7 +122,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-0-18",
+      "id": "DonguriX14Y15-chosung-0-18",
       "bitmap": "000000001ff80004000400040004000800000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 0,
@@ -132,7 +132,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-0-19",
+      "id": "DonguriX14Y15-chosung-0-19",
       "bitmap": "000000001ff80004000400040008000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 0,
@@ -162,7 +162,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-0-22",
+      "id": "DonguriX14Y15-chosung-0-22",
       "bitmap": "0000000000003e00010001000100020000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 0,
@@ -172,7 +172,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-0-23",
+      "id": "DonguriX14Y15-chosung-0-23",
       "bitmap": "000000007e000100010001000200000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 0,
@@ -182,7 +182,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-0-26",
+      "id": "DonguriX14Y15-chosung-0-26",
       "bitmap": "0000000000003f80004000400040004000400040008000000000000000000000",
       "type": "chosung",
       "typeIndex": 0,
@@ -192,7 +192,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-0-27",
+      "id": "DonguriX14Y15-chosung-0-27",
       "bitmap": "000000003f800040004000400080000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 0,
@@ -202,7 +202,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-1-28",
+      "id": "DonguriX14Y15-chosung-1-28",
       "bitmap": "0000000000003b80044004400440044004400880088011006600000000000000",
       "type": "chosung",
       "typeIndex": 1,
@@ -212,7 +212,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-1-29",
+      "id": "DonguriX14Y15-chosung-1-29",
       "bitmap": "000000003b800440044004400440044019800000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 1,
@@ -222,7 +222,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-1-34",
+      "id": "DonguriX14Y15-chosung-1-34",
       "bitmap": "0000000000003600090009000900090009000900120012006c00000000000000",
       "type": "chosung",
       "typeIndex": 1,
@@ -232,7 +232,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-1-35",
+      "id": "DonguriX14Y15-chosung-1-35",
       "bitmap": "000000003b000480048004800480088033000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 1,
@@ -242,7 +242,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-1-32",
+      "id": "DonguriX14Y15-chosung-1-32",
       "bitmap": "0000000000003b80044004400440044004400880088011006600000000000000",
       "type": "chosung",
       "typeIndex": 1,
@@ -252,7 +252,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-1-33",
+      "id": "DonguriX14Y15-chosung-1-33",
       "bitmap": "000000003b800440044004400440044019800000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 1,
@@ -262,7 +262,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-1-36",
+      "id": "DonguriX14Y15-chosung-1-36",
       "bitmap": "0000000000003cf8020402040204020402040404040408040808000000000000",
       "type": "chosung",
       "typeIndex": 1,
@@ -272,7 +272,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-1-37",
+      "id": "DonguriX14Y15-chosung-1-37",
       "bitmap": "0000000000003ef8010401040204000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 1,
@@ -282,7 +282,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-1-42",
+      "id": "DonguriX14Y15-chosung-1-42",
       "bitmap": "0000000000003b80044004400440044004400440088008800000000000000000",
       "type": "chosung",
       "typeIndex": 1,
@@ -292,7 +292,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-1-43",
+      "id": "DonguriX14Y15-chosung-1-43",
       "bitmap": "000000003b800440044004400840000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 1,
@@ -302,7 +302,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-1-40",
+      "id": "DonguriX14Y15-chosung-1-40",
       "bitmap": "0000000000003600090009000900090009000900120012000000000000000000",
       "type": "chosung",
       "typeIndex": 1,
@@ -312,7 +312,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-1-41",
+      "id": "DonguriX14Y15-chosung-1-41",
       "bitmap": "0000000037000880088008801100000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 1,
@@ -322,7 +322,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-1-46",
+      "id": "DonguriX14Y15-chosung-1-46",
       "bitmap": "0000000000001e78010401040104010402080000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 1,
@@ -332,7 +332,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-1-47",
+      "id": "DonguriX14Y15-chosung-1-47",
       "bitmap": "000000001e780104010401040208000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 1,
@@ -362,7 +362,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-1-50",
+      "id": "DonguriX14Y15-chosung-1-50",
       "bitmap": "0000000000003600090009000900090012000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 1,
@@ -372,7 +372,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-1-51",
+      "id": "DonguriX14Y15-chosung-1-51",
       "bitmap": "0000000076000900090009001200000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 1,
@@ -382,7 +382,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-1-54",
+      "id": "DonguriX14Y15-chosung-1-54",
       "bitmap": "0000000000003b80044004400440044004400440088008800000000000000000",
       "type": "chosung",
       "typeIndex": 1,
@@ -392,7 +392,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-1-55",
+      "id": "DonguriX14Y15-chosung-1-55",
       "bitmap": "000000003b800440044004400880000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 1,
@@ -402,7 +402,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-2-56",
+      "id": "DonguriX14Y15-chosung-2-56",
       "bitmap": "0000000000002000200020002000200020002000200020001fc0000000000000",
       "type": "chosung",
       "typeIndex": 2,
@@ -412,7 +412,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-2-57",
+      "id": "DonguriX14Y15-chosung-2-57",
       "bitmap": "000000002000200020002000200020001fc00000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 2,
@@ -422,7 +422,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-2-62",
+      "id": "DonguriX14Y15-chosung-2-62",
       "bitmap": "0000000000002000200020002000200020002000200020001f00000000000000",
       "type": "chosung",
       "typeIndex": 2,
@@ -432,7 +432,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-2-63",
+      "id": "DonguriX14Y15-chosung-2-63",
       "bitmap": "000000002000200020002000200020001f000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 2,
@@ -442,7 +442,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-2-60",
+      "id": "DonguriX14Y15-chosung-2-60",
       "bitmap": "0000000000002000200020002000200020002000200020001fc0000000000000",
       "type": "chosung",
       "typeIndex": 2,
@@ -452,7 +452,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-2-61",
+      "id": "DonguriX14Y15-chosung-2-61",
       "bitmap": "000000002000200020002000200020001fc00000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 2,
@@ -462,7 +462,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-2-64",
+      "id": "DonguriX14Y15-chosung-2-64",
       "bitmap": "0000000000001000100010001000100010000ffc000000000000000000000000",
       "type": "chosung",
       "typeIndex": 2,
@@ -472,7 +472,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-2-65",
+      "id": "DonguriX14Y15-chosung-2-65",
       "bitmap": "0000000010001000100010000ffc000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 2,
@@ -482,7 +482,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-2-70",
+      "id": "DonguriX14Y15-chosung-2-70",
       "bitmap": "0000000000002000200020002000200020001fc0000000000000000000000000",
       "type": "chosung",
       "typeIndex": 2,
@@ -492,7 +492,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-2-71",
+      "id": "DonguriX14Y15-chosung-2-71",
       "bitmap": "0000000020002000200020001fc0000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 2,
@@ -502,7 +502,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-2-68",
+      "id": "DonguriX14Y15-chosung-2-68",
       "bitmap": "000000000000200020002000200020001f000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 2,
@@ -512,7 +512,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-2-69",
+      "id": "DonguriX14Y15-chosung-2-69",
       "bitmap": "0000000020002000200020001f80000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 2,
@@ -522,7 +522,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-2-74",
+      "id": "DonguriX14Y15-chosung-2-74",
       "bitmap": "0000000010001000100010000ffc000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 2,
@@ -532,7 +532,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-2-75",
+      "id": "DonguriX14Y15-chosung-2-75",
       "bitmap": "0000000010001000100010000ffc000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 2,
@@ -562,7 +562,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-2-78",
+      "id": "DonguriX14Y15-chosung-2-78",
       "bitmap": "0000000020002000200020001f00000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 2,
@@ -572,7 +572,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-2-79",
+      "id": "DonguriX14Y15-chosung-2-79",
       "bitmap": "000000002000200020001f000000000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 2,
@@ -582,7 +582,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-2-82",
+      "id": "DonguriX14Y15-chosung-2-82",
       "bitmap": "0000000000002000200020002000200020001fc0000000000000000000000000",
       "type": "chosung",
       "typeIndex": 2,
@@ -592,7 +592,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-2-83",
+      "id": "DonguriX14Y15-chosung-2-83",
       "bitmap": "0000000020002000200020001fc0000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 2,
@@ -602,7 +602,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-3-84",
+      "id": "DonguriX14Y15-chosung-3-84",
       "bitmap": "0000000000003f80200020002000200020002000200020001fc0000000000000",
       "type": "chosung",
       "typeIndex": 3,
@@ -612,7 +612,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-3-85",
+      "id": "DonguriX14Y15-chosung-3-85",
       "bitmap": "000000003f80200020002000200020001fc00000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 3,
@@ -622,7 +622,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-3-90",
+      "id": "DonguriX14Y15-chosung-3-90",
       "bitmap": "0000000000003e00200020002000200020002000200020001f00000000000000",
       "type": "chosung",
       "typeIndex": 3,
@@ -632,7 +632,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-3-91",
+      "id": "DonguriX14Y15-chosung-3-91",
       "bitmap": "000000003f00200020002000200020001f800000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 3,
@@ -642,7 +642,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-3-88",
+      "id": "DonguriX14Y15-chosung-3-88",
       "bitmap": "0000000000003f80200020002000200020002000200020001fc0000000000000",
       "type": "chosung",
       "typeIndex": 3,
@@ -652,7 +652,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-3-89",
+      "id": "DonguriX14Y15-chosung-3-89",
       "bitmap": "000000003fc0200020002000200020001fe00000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 3,
@@ -662,7 +662,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-3-92",
+      "id": "DonguriX14Y15-chosung-3-92",
       "bitmap": "0000000000001ffc100010001000100010000ffc000000000000000000000000",
       "type": "chosung",
       "typeIndex": 3,
@@ -672,7 +672,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-3-93",
+      "id": "DonguriX14Y15-chosung-3-93",
       "bitmap": "000000001ffc1000100010000ffc000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 3,
@@ -682,7 +682,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-3-98",
+      "id": "DonguriX14Y15-chosung-3-98",
       "bitmap": "0000000000003fc0200020002000200020001fc0000000000000000000000000",
       "type": "chosung",
       "typeIndex": 3,
@@ -692,7 +692,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-3-99",
+      "id": "DonguriX14Y15-chosung-3-99",
       "bitmap": "000000003fc02000200020001fc0000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 3,
@@ -702,7 +702,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-3-96",
+      "id": "DonguriX14Y15-chosung-3-96",
       "bitmap": "0000000000003f0020002000200020001f000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 3,
@@ -712,7 +712,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-3-97",
+      "id": "DonguriX14Y15-chosung-3-97",
       "bitmap": "000000003f802000200020001f80000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 3,
@@ -722,7 +722,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-3-102",
+      "id": "DonguriX14Y15-chosung-3-102",
       "bitmap": "000000001ffc1000100010000ffc000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 3,
@@ -732,7 +732,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-3-103",
+      "id": "DonguriX14Y15-chosung-3-103",
       "bitmap": "000000001ffc1000100010000ffc000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 3,
@@ -762,7 +762,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-3-106",
+      "id": "DonguriX14Y15-chosung-3-106",
       "bitmap": "000000003f002000200020001f00000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 3,
@@ -772,7 +772,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-3-107",
+      "id": "DonguriX14Y15-chosung-3-107",
       "bitmap": "000000003f00200020001f000000000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 3,
@@ -782,7 +782,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-3-110",
+      "id": "DonguriX14Y15-chosung-3-110",
       "bitmap": "0000000000003fc0200020002000200020001fc0000000000000000000000000",
       "type": "chosung",
       "typeIndex": 3,
@@ -792,7 +792,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-3-111",
+      "id": "DonguriX14Y15-chosung-3-111",
       "bitmap": "000000003fc02000200020001fc0000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 3,
@@ -802,7 +802,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-4-112",
+      "id": "DonguriX14Y15-chosung-4-112",
       "bitmap": "0000000000003fc0220022002200220022002200220022001dc0000000000000",
       "type": "chosung",
       "typeIndex": 4,
@@ -812,7 +812,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-4-113",
+      "id": "DonguriX14Y15-chosung-4-113",
       "bitmap": "000000003fc0220022002200220022001fc00000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 4,
@@ -822,7 +822,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-4-118",
+      "id": "DonguriX14Y15-chosung-4-118",
       "bitmap": "0000000000003f80240024002400240024002400240024001b80000000000000",
       "type": "chosung",
       "typeIndex": 4,
@@ -832,7 +832,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-4-119",
+      "id": "DonguriX14Y15-chosung-4-119",
       "bitmap": "000000003f80240024002400240024001f800000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 4,
@@ -842,7 +842,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-4-116",
+      "id": "DonguriX14Y15-chosung-4-116",
       "bitmap": "0000000000003fc0240024002400240024002400240024001bc0000000000000",
       "type": "chosung",
       "typeIndex": 4,
@@ -852,7 +852,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-4-117",
+      "id": "DonguriX14Y15-chosung-4-117",
       "bitmap": "000000003fe0220022002200220022001fe00000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 4,
@@ -862,7 +862,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-4-120",
+      "id": "DonguriX14Y15-chosung-4-120",
       "bitmap": "0000000000001ffc108010801080108010800ffc000000000000000000000000",
       "type": "chosung",
       "typeIndex": 4,
@@ -872,7 +872,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-4-121",
+      "id": "DonguriX14Y15-chosung-4-121",
       "bitmap": "000000001ffc1080108010800ffc000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 4,
@@ -882,7 +882,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-4-126",
+      "id": "DonguriX14Y15-chosung-4-126",
       "bitmap": "0000000000003fc0220022002200220022001fc0000000000000000000000000",
       "type": "chosung",
       "typeIndex": 4,
@@ -892,7 +892,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-4-127",
+      "id": "DonguriX14Y15-chosung-4-127",
       "bitmap": "000000003fc02400240024001fc0000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 4,
@@ -902,7 +902,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-4-124",
+      "id": "DonguriX14Y15-chosung-4-124",
       "bitmap": "0000000000003f0024002400240024001f000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 4,
@@ -912,7 +912,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-4-125",
+      "id": "DonguriX14Y15-chosung-4-125",
       "bitmap": "000000003f80240024001f800000000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 4,
@@ -922,7 +922,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-4-130",
+      "id": "DonguriX14Y15-chosung-4-130",
       "bitmap": "000000001ffc1080108010800ffc000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 4,
@@ -932,7 +932,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-4-131",
+      "id": "DonguriX14Y15-chosung-4-131",
       "bitmap": "000000001ffc1080108010800ffc000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 4,
@@ -962,7 +962,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-4-134",
+      "id": "DonguriX14Y15-chosung-4-134",
       "bitmap": "000000003f0024002400240024001f0000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 4,
@@ -972,7 +972,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-4-135",
+      "id": "DonguriX14Y15-chosung-4-135",
       "bitmap": "000000003f80240024001f800000000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 4,
@@ -982,7 +982,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-4-138",
+      "id": "DonguriX14Y15-chosung-4-138",
       "bitmap": "0000000000003fc0220022002200220022001fc0000000000000000000000000",
       "type": "chosung",
       "typeIndex": 4,
@@ -992,7 +992,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-4-139",
+      "id": "DonguriX14Y15-chosung-4-139",
       "bitmap": "000000003fc02200220022001fc0000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 4,
@@ -1002,7 +1002,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-5-140",
+      "id": "DonguriX14Y15-chosung-5-140",
       "bitmap": "0000000000003f0000800080008000803f8020002000200020001fc000000000",
       "type": "chosung",
       "typeIndex": 5,
@@ -1012,7 +1012,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-5-141",
+      "id": "DonguriX14Y15-chosung-5-141",
       "bitmap": "000000003f80004000403fc0200020001fc00000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 5,
@@ -1022,7 +1022,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-5-146",
+      "id": "DonguriX14Y15-chosung-5-146",
       "bitmap": "0000000000003e0001000100010001003f0020002000200020001f0000000000",
       "type": "chosung",
       "typeIndex": 5,
@@ -1032,7 +1032,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-5-147",
+      "id": "DonguriX14Y15-chosung-5-147",
       "bitmap": "000000003e00010001003f00200020001f000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 5,
@@ -1042,7 +1042,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-5-144",
+      "id": "DonguriX14Y15-chosung-5-144",
       "bitmap": "0000000000003c0002000200020002003e0020002000200020001f0000000000",
       "type": "chosung",
       "typeIndex": 5,
@@ -1052,7 +1052,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-5-145",
+      "id": "DonguriX14Y15-chosung-5-145",
       "bitmap": "000000003e00010001003f00200020001f000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 5,
@@ -1062,7 +1062,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-5-148",
+      "id": "DonguriX14Y15-chosung-5-148",
       "bitmap": "0000000000001ff8000400041ffc1000100010000ffc00000000000000000000",
       "type": "chosung",
       "typeIndex": 5,
@@ -1072,7 +1072,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-5-149",
+      "id": "DonguriX14Y15-chosung-5-149",
       "bitmap": "000000001ff800041ffc10000ffc000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 5,
@@ -1082,7 +1082,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-5-154",
+      "id": "DonguriX14Y15-chosung-5-154",
       "bitmap": "0000000000003f80004000403fc0200020001fc0000000000000000000000000",
       "type": "chosung",
       "typeIndex": 5,
@@ -1092,7 +1092,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-5-155",
+      "id": "DonguriX14Y15-chosung-5-155",
       "bitmap": "000000003f8000403fc020001fc0000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 5,
@@ -1102,7 +1102,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-5-152",
+      "id": "DonguriX14Y15-chosung-5-152",
       "bitmap": "0000000000007e00010001007f00400040003f00000000000000000000000000",
       "type": "chosung",
       "typeIndex": 5,
@@ -1112,7 +1112,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-5-153",
+      "id": "DonguriX14Y15-chosung-5-153",
       "bitmap": "000000003e0001003f0020001f00000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 5,
@@ -1122,7 +1122,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-5-158",
+      "id": "DonguriX14Y15-chosung-5-158",
       "bitmap": "000000001ff800041ffc100010000ffc00000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 5,
@@ -1132,7 +1132,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-5-159",
+      "id": "DonguriX14Y15-chosung-5-159",
       "bitmap": "000000001ff800041ffc10000ffc000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 5,
@@ -1162,7 +1162,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-5-162",
+      "id": "DonguriX14Y15-chosung-5-162",
       "bitmap": "000000003e0001003f00200020001f0000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 5,
@@ -1172,7 +1172,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-5-163",
+      "id": "DonguriX14Y15-chosung-5-163",
       "bitmap": "000000003e0001003f0020001f00000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 5,
@@ -1182,7 +1182,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-5-166",
+      "id": "DonguriX14Y15-chosung-5-166",
       "bitmap": "0000000000003f80004000403fc0200020001fc0000000000000000000000000",
       "type": "chosung",
       "typeIndex": 5,
@@ -1192,7 +1192,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-5-167",
+      "id": "DonguriX14Y15-chosung-5-167",
       "bitmap": "000000003f8000403fc020001fc0000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 5,
@@ -1202,7 +1202,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-6-168",
+      "id": "DonguriX14Y15-chosung-6-168",
       "bitmap": "0000000000003fc02040204020402040204020402040204020401fc000000000",
       "type": "chosung",
       "typeIndex": 6,
@@ -1212,7 +1212,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-6-169",
+      "id": "DonguriX14Y15-chosung-6-169",
       "bitmap": "000000003fc0204020402040204020401fc00000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 6,
@@ -1222,7 +1222,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-6-174",
+      "id": "DonguriX14Y15-chosung-6-174",
       "bitmap": "0000000000003f002100210021002100210021002100210021001f0000000000",
       "type": "chosung",
       "typeIndex": 6,
@@ -1232,7 +1232,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-6-175",
+      "id": "DonguriX14Y15-chosung-6-175",
       "bitmap": "000000003f00210021002100210021001f000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 6,
@@ -1242,7 +1242,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-6-172",
+      "id": "DonguriX14Y15-chosung-6-172",
       "bitmap": "0000000000003f002100210021002100210021002100210021001f0000000000",
       "type": "chosung",
       "typeIndex": 6,
@@ -1252,7 +1252,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-6-173",
+      "id": "DonguriX14Y15-chosung-6-173",
       "bitmap": "000000003f00210021002100210021001f000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 6,
@@ -1262,7 +1262,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-6-176",
+      "id": "DonguriX14Y15-chosung-6-176",
       "bitmap": "0000000000001ffc100410041004100410040ffc000000000000000000000000",
       "type": "chosung",
       "typeIndex": 6,
@@ -1272,7 +1272,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-6-177",
+      "id": "DonguriX14Y15-chosung-6-177",
       "bitmap": "000000001ffc1004100410040ffc000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 6,
@@ -1282,7 +1282,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-6-182",
+      "id": "DonguriX14Y15-chosung-6-182",
       "bitmap": "0000000000003f80208020802080208020801f80000000000000000000000000",
       "type": "chosung",
       "typeIndex": 6,
@@ -1292,7 +1292,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-6-183",
+      "id": "DonguriX14Y15-chosung-6-183",
       "bitmap": "000000003fc02040204020401fc0000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 6,
@@ -1302,7 +1302,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-6-180",
+      "id": "DonguriX14Y15-chosung-6-180",
       "bitmap": "0000000000007f00410041004100410041003f00000000000000000000000000",
       "type": "chosung",
       "typeIndex": 6,
@@ -1312,7 +1312,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-6-181",
+      "id": "DonguriX14Y15-chosung-6-181",
       "bitmap": "000000003f802080208020801f80000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 6,
@@ -1322,7 +1322,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-6-186",
+      "id": "DonguriX14Y15-chosung-6-186",
       "bitmap": "000000001ffc1004100410040ffc000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 6,
@@ -1332,7 +1332,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-6-187",
+      "id": "DonguriX14Y15-chosung-6-187",
       "bitmap": "000000001ffc1004100410040ffc000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 6,
@@ -1362,7 +1362,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-6-190",
+      "id": "DonguriX14Y15-chosung-6-190",
       "bitmap": "000000003f0021002100210021001f0000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 6,
@@ -1372,7 +1372,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-6-191",
+      "id": "DonguriX14Y15-chosung-6-191",
       "bitmap": "000000003f00210021001f000000000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 6,
@@ -1382,7 +1382,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-6-194",
+      "id": "DonguriX14Y15-chosung-6-194",
       "bitmap": "0000000000003f80208020802080208020801f80000000000000000000000000",
       "type": "chosung",
       "typeIndex": 6,
@@ -1392,7 +1392,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-6-195",
+      "id": "DonguriX14Y15-chosung-6-195",
       "bitmap": "000000003fc02040204020401fc0000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 6,
@@ -1402,7 +1402,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-7-196",
+      "id": "DonguriX14Y15-chosung-7-196",
       "bitmap": "000000000000204020402040204020403fc020402040204020401f8000000000",
       "type": "chosung",
       "typeIndex": 7,
@@ -1412,7 +1412,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-7-197",
+      "id": "DonguriX14Y15-chosung-7-197",
       "bitmap": "000000002080208020803f80208020801f000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 7,
@@ -1422,7 +1422,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-7-202",
+      "id": "DonguriX14Y15-chosung-7-202",
       "bitmap": "000000000000210021002100210021003f0021002100210021001e0000000000",
       "type": "chosung",
       "typeIndex": 7,
@@ -1432,7 +1432,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-7-203",
+      "id": "DonguriX14Y15-chosung-7-203",
       "bitmap": "000000002100210021003f00210021001e000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 7,
@@ -1442,7 +1442,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-7-200",
+      "id": "DonguriX14Y15-chosung-7-200",
       "bitmap": "000000000000208020802080208020803f8020802080208020801f8000000000",
       "type": "chosung",
       "typeIndex": 7,
@@ -1452,7 +1452,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-7-201",
+      "id": "DonguriX14Y15-chosung-7-201",
       "bitmap": "000000002100210021003f00210021001e000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 7,
@@ -1462,7 +1462,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-7-204",
+      "id": "DonguriX14Y15-chosung-7-204",
       "bitmap": "0000000000001004100410041ffc100410040ff8000000000000000000000000",
       "type": "chosung",
       "typeIndex": 7,
@@ -1472,7 +1472,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-7-205",
+      "id": "DonguriX14Y15-chosung-7-205",
       "bitmap": "0000000010041ffc100410040ff8000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 7,
@@ -1482,7 +1482,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-7-210",
+      "id": "DonguriX14Y15-chosung-7-210",
       "bitmap": "0000000000002080208020803f80208020801f00000000000000000000000000",
       "type": "chosung",
       "typeIndex": 7,
@@ -1492,7 +1492,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-7-211",
+      "id": "DonguriX14Y15-chosung-7-211",
       "bitmap": "0000000020403fc0204020401f80000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 7,
@@ -1502,7 +1502,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-7-208",
+      "id": "DonguriX14Y15-chosung-7-208",
       "bitmap": "0000000000004100410041007f00410041003e00000000000000000000000000",
       "type": "chosung",
       "typeIndex": 7,
@@ -1512,7 +1512,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-7-209",
+      "id": "DonguriX14Y15-chosung-7-209",
       "bitmap": "0000000020803f80208020801f00000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 7,
@@ -1522,7 +1522,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-7-214",
+      "id": "DonguriX14Y15-chosung-7-214",
       "bitmap": "00000000100410041ffc100410040ff800000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 7,
@@ -1532,7 +1532,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-7-215",
+      "id": "DonguriX14Y15-chosung-7-215",
       "bitmap": "0000000010041ffc100410040ff8000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 7,
@@ -1562,7 +1562,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-7-218",
+      "id": "DonguriX14Y15-chosung-7-218",
       "bitmap": "00000000210021003f00210021001e0000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 7,
@@ -1572,7 +1572,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-7-219",
+      "id": "DonguriX14Y15-chosung-7-219",
       "bitmap": "0000000021003f00210021001e00000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 7,
@@ -1582,7 +1582,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-7-222",
+      "id": "DonguriX14Y15-chosung-7-222",
       "bitmap": "0000000000002040204020403fc0204020401f80000000000000000000000000",
       "type": "chosung",
       "typeIndex": 7,
@@ -1592,7 +1592,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-7-223",
+      "id": "DonguriX14Y15-chosung-7-223",
       "bitmap": "0000000020403fc0204020401f80000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 7,
@@ -1602,7 +1602,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-8-224",
+      "id": "DonguriX14Y15-chosung-8-224",
       "bitmap": "0000000000004a404a404a404a404a407bc04a404a404a404a40318000000000",
       "type": "chosung",
       "typeIndex": 8,
@@ -1612,7 +1612,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-8-225",
+      "id": "DonguriX14Y15-chosung-8-225",
       "bitmap": "000000004a404a404a407bc04a404a4031800000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 8,
@@ -1622,7 +1622,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-8-230",
+      "id": "DonguriX14Y15-chosung-8-230",
       "bitmap": "000000000000490049004900490049007f004900490049004900360000000000",
       "type": "chosung",
       "typeIndex": 8,
@@ -1632,7 +1632,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-8-231",
+      "id": "DonguriX14Y15-chosung-8-231",
       "bitmap": "000000002480248024803f80248024801f000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 8,
@@ -1642,7 +1642,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-8-228",
+      "id": "DonguriX14Y15-chosung-8-228",
       "bitmap": "000000000000488048804880488048807f8048804880488048803f0000000000",
       "type": "chosung",
       "typeIndex": 8,
@@ -1652,7 +1652,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-8-229",
+      "id": "DonguriX14Y15-chosung-8-229",
       "bitmap": "000000004440444044407fc0444044403f800000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 8,
@@ -1662,7 +1662,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-8-232",
+      "id": "DonguriX14Y15-chosung-8-232",
       "bitmap": "0000000000001144114411441f7c1144114411440e3800000000000000000000",
       "type": "chosung",
       "typeIndex": 8,
@@ -1672,7 +1672,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-8-233",
+      "id": "DonguriX14Y15-chosung-8-233",
       "bitmap": "0000000011441f7c114411440e38000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 8,
@@ -1682,7 +1682,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-8-238",
+      "id": "DonguriX14Y15-chosung-8-238",
       "bitmap": "0000000000004a404a407bc04a404a404a403180000000000000000000000000",
       "type": "chosung",
       "typeIndex": 8,
@@ -1692,7 +1692,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-8-239",
+      "id": "DonguriX14Y15-chosung-8-239",
       "bitmap": "000000004a407bc04a404a403180000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 8,
@@ -1702,7 +1702,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-8-236",
+      "id": "DonguriX14Y15-chosung-8-236",
       "bitmap": "000000000000490049007f004900490049003e00000000000000000000000000",
       "type": "chosung",
       "typeIndex": 8,
@@ -1712,7 +1712,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-8-237",
+      "id": "DonguriX14Y15-chosung-8-237",
       "bitmap": "0000000024803f80248024801f00000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 8,
@@ -1722,7 +1722,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-8-242",
+      "id": "DonguriX14Y15-chosung-8-242",
       "bitmap": "00000000114411441f7c114411440e3800000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 8,
@@ -1732,7 +1732,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-8-243",
+      "id": "DonguriX14Y15-chosung-8-243",
       "bitmap": "0000000011441f7c114411440e38000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 8,
@@ -1762,7 +1762,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-8-246",
+      "id": "DonguriX14Y15-chosung-8-246",
       "bitmap": "00000000290029003f00290029001e0000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 8,
@@ -1772,7 +1772,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-8-247",
+      "id": "DonguriX14Y15-chosung-8-247",
       "bitmap": "0000000024803f80248024801f00000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 8,
@@ -1782,7 +1782,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-8-250",
+      "id": "DonguriX14Y15-chosung-8-250",
       "bitmap": "0000000000004a404a404a407bc04a404a403180000000000000000000000000",
       "type": "chosung",
       "typeIndex": 8,
@@ -1792,7 +1792,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-8-251",
+      "id": "DonguriX14Y15-chosung-8-251",
       "bitmap": "000000004a407bc04a404a403180000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 8,
@@ -1802,7 +1802,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-9-252",
+      "id": "DonguriX14Y15-chosung-9-252",
       "bitmap": "000000000000040004000400040004000a000a00110011002080404000000000",
       "type": "chosung",
       "typeIndex": 9,
@@ -1812,7 +1812,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-9-253",
+      "id": "DonguriX14Y15-chosung-9-253",
       "bitmap": "000000000400040004000a000a00110020800000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 9,
@@ -1822,7 +1822,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-9-258",
+      "id": "DonguriX14Y15-chosung-9-258",
       "bitmap": "0000000008000800080008000800080014001400140022002200410000000000",
       "type": "chosung",
       "typeIndex": 9,
@@ -1832,7 +1832,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-9-259",
+      "id": "DonguriX14Y15-chosung-9-259",
       "bitmap": "000000000400040004000a000a00110020800000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 9,
@@ -1842,7 +1842,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-9-256",
+      "id": "DonguriX14Y15-chosung-9-256",
       "bitmap": "000000000000040004000400040004000a000a00110011002080404000000000",
       "type": "chosung",
       "typeIndex": 9,
@@ -1852,7 +1852,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-9-257",
+      "id": "DonguriX14Y15-chosung-9-257",
       "bitmap": "000000000400040004000a000a00110020800000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 9,
@@ -1862,7 +1862,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-9-260",
+      "id": "DonguriX14Y15-chosung-9-260",
       "bitmap": "0000000000000080008000800140014002200c18300600000000000000000000",
       "type": "chosung",
       "typeIndex": 9,
@@ -1872,7 +1872,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-9-261",
+      "id": "DonguriX14Y15-chosung-9-261",
       "bitmap": "000000000080008001400630180c000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 9,
@@ -1882,7 +1882,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-9-266",
+      "id": "DonguriX14Y15-chosung-9-266",
       "bitmap": "0000000000000400040004000a000a00110060c0000000000000000000000000",
       "type": "chosung",
       "typeIndex": 9,
@@ -1892,7 +1892,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-9-267",
+      "id": "DonguriX14Y15-chosung-9-267",
       "bitmap": "0000000002000200050008803060000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 9,
@@ -1902,7 +1902,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-9-264",
+      "id": "DonguriX14Y15-chosung-9-264",
       "bitmap": "0000000000000800080008001400140022004100000000000000000000000000",
       "type": "chosung",
       "typeIndex": 9,
@@ -1912,7 +1912,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-9-265",
+      "id": "DonguriX14Y15-chosung-9-265",
       "bitmap": "000000000400040004000a003180000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 9,
@@ -1922,7 +1922,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-9-270",
+      "id": "DonguriX14Y15-chosung-9-270",
       "bitmap": "000000000080008001400630380e000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 9,
@@ -1932,7 +1932,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-9-271",
+      "id": "DonguriX14Y15-chosung-9-271",
       "bitmap": "000000000080008001400630180c000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 9,
@@ -1962,7 +1962,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-9-274",
+      "id": "DonguriX14Y15-chosung-9-274",
       "bitmap": "000000000400040004000a003180000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 9,
@@ -1972,7 +1972,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-9-275",
+      "id": "DonguriX14Y15-chosung-9-275",
       "bitmap": "0000000008000800140063000000000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 9,
@@ -1982,7 +1982,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-9-278",
+      "id": "DonguriX14Y15-chosung-9-278",
       "bitmap": "0000000000000400040004000a000a00110060c0000000000000000000000000",
       "type": "chosung",
       "typeIndex": 9,
@@ -1992,7 +1992,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-9-279",
+      "id": "DonguriX14Y15-chosung-9-279",
       "bitmap": "0000000002000200050008803060000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 9,
@@ -2002,7 +2002,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-10-280",
+      "id": "DonguriX14Y15-chosung-10-280",
       "bitmap": "0000000000001100110011001100110011002a802a802a804440444000000000",
       "type": "chosung",
       "typeIndex": 10,
@@ -2012,7 +2012,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-10-281",
+      "id": "DonguriX14Y15-chosung-10-281",
       "bitmap": "0000000008800880088008801540154022200000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 10,
@@ -2022,7 +2022,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-10-286",
+      "id": "DonguriX14Y15-chosung-10-286",
       "bitmap": "0000000000001100110011001100110011002a802a8024804440444000000000",
       "type": "chosung",
       "typeIndex": 10,
@@ -2032,7 +2032,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-10-287",
+      "id": "DonguriX14Y15-chosung-10-287",
       "bitmap": "0000000011001100110011002a802a8044400000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 10,
@@ -2042,7 +2042,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-10-284",
+      "id": "DonguriX14Y15-chosung-10-284",
       "bitmap": "0000000000001100110011001100110011002a802a802a804440444000000000",
       "type": "chosung",
       "typeIndex": 10,
@@ -2052,7 +2052,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-10-285",
+      "id": "DonguriX14Y15-chosung-10-285",
       "bitmap": "0000000011001100110011002a802a8044400000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 10,
@@ -2062,7 +2062,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-10-288",
+      "id": "DonguriX14Y15-chosung-10-288",
       "bitmap": "0000000000000410041004100a280a2811441144208200000000000000000000",
       "type": "chosung",
       "typeIndex": 10,
@@ -2072,7 +2072,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-10-289",
+      "id": "DonguriX14Y15-chosung-10-289",
       "bitmap": "000000000410041004100a2831c6000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 10,
@@ -2082,7 +2082,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-10-294",
+      "id": "DonguriX14Y15-chosung-10-294",
       "bitmap": "00000000000011001100110011002a802a804440000000000000000000000000",
       "type": "chosung",
       "typeIndex": 10,
@@ -2092,7 +2092,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-10-295",
+      "id": "DonguriX14Y15-chosung-10-295",
       "bitmap": "0000000008800880154015402220000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 10,
@@ -2102,7 +2102,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-10-292",
+      "id": "DonguriX14Y15-chosung-10-292",
       "bitmap": "00000000000014001400140014002a002a004900000000000000000000000000",
       "type": "chosung",
       "typeIndex": 10,
@@ -2112,7 +2112,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-10-293",
+      "id": "DonguriX14Y15-chosung-10-293",
       "bitmap": "000000000a000a000a0015002080000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 10,
@@ -2122,7 +2122,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-10-298",
+      "id": "DonguriX14Y15-chosung-10-298",
       "bitmap": "00000000041004100a280a281144208200000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 10,
@@ -2132,7 +2132,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-10-299",
+      "id": "DonguriX14Y15-chosung-10-299",
       "bitmap": "00000000041004100a280a2831c6000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 10,
@@ -2162,7 +2162,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-10-302",
+      "id": "DonguriX14Y15-chosung-10-302",
       "bitmap": "000000000a000a000a000a001500248000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 10,
@@ -2172,7 +2172,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-10-303",
+      "id": "DonguriX14Y15-chosung-10-303",
       "bitmap": "00000000140014002a0049000000000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 10,
@@ -2182,7 +2182,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-10-306",
+      "id": "DonguriX14Y15-chosung-10-306",
       "bitmap": "000000000000110011001100110011002a802a80444000000000000000000000",
       "type": "chosung",
       "typeIndex": 10,
@@ -2192,7 +2192,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-10-307",
+      "id": "DonguriX14Y15-chosung-10-307",
       "bitmap": "0000000008800880154015402220000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 10,
@@ -2202,7 +2202,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-11-308",
+      "id": "DonguriX14Y15-chosung-11-308",
       "bitmap": "0000000000001f802040204020402040204020402040204020401f8000000000",
       "type": "chosung",
       "typeIndex": 11,
@@ -2212,7 +2212,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-11-309",
+      "id": "DonguriX14Y15-chosung-11-309",
       "bitmap": "000000001f80204020402040204020401f800000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 11,
@@ -2222,7 +2222,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-11-314",
+      "id": "DonguriX14Y15-chosung-11-314",
       "bitmap": "0000000000001e002100210021002100210021002100210021001e0000000000",
       "type": "chosung",
       "typeIndex": 11,
@@ -2232,7 +2232,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-11-315",
+      "id": "DonguriX14Y15-chosung-11-315",
       "bitmap": "000000001e00210021002100210021001e000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 11,
@@ -2242,7 +2242,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-11-312",
+      "id": "DonguriX14Y15-chosung-11-312",
       "bitmap": "0000000000001f002080208020802080208020802080208020801f0000000000",
       "type": "chosung",
       "typeIndex": 11,
@@ -2252,7 +2252,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-11-313",
+      "id": "DonguriX14Y15-chosung-11-313",
       "bitmap": "000000001f00208020802080208020801f000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 11,
@@ -2262,7 +2262,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-11-316",
+      "id": "DonguriX14Y15-chosung-11-316",
       "bitmap": "0000000000000ff8100410041004100410040ff8000000000000000000000000",
       "type": "chosung",
       "typeIndex": 11,
@@ -2272,7 +2272,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-11-317",
+      "id": "DonguriX14Y15-chosung-11-317",
       "bitmap": "000000000ff81004100410040ff8000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 11,
@@ -2282,7 +2282,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-11-322",
+      "id": "DonguriX14Y15-chosung-11-322",
       "bitmap": "0000000000001f00208020802080208020801f00000000000000000000000000",
       "type": "chosung",
       "typeIndex": 11,
@@ -2292,7 +2292,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-11-323",
+      "id": "DonguriX14Y15-chosung-11-323",
       "bitmap": "000000001f802040204020401f80000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 11,
@@ -2302,7 +2302,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-11-320",
+      "id": "DonguriX14Y15-chosung-11-320",
       "bitmap": "0000000000001e00210021002100210021001e00000000000000000000000000",
       "type": "chosung",
       "typeIndex": 11,
@@ -2312,7 +2312,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-11-321",
+      "id": "DonguriX14Y15-chosung-11-321",
       "bitmap": "000000001f002080208020801f00000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 11,
@@ -2322,7 +2322,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-11-326",
+      "id": "DonguriX14Y15-chosung-11-326",
       "bitmap": "000000000ff810041004100410040ff800000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 11,
@@ -2332,7 +2332,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-11-327",
+      "id": "DonguriX14Y15-chosung-11-327",
       "bitmap": "000000000ff81004100410040ff8000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 11,
@@ -2362,7 +2362,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-11-330",
+      "id": "DonguriX14Y15-chosung-11-330",
       "bitmap": "000000001e0021002100210021001e0000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 11,
@@ -2372,7 +2372,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-11-331",
+      "id": "DonguriX14Y15-chosung-11-331",
       "bitmap": "000000001e00210021001e000000000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 11,
@@ -2382,7 +2382,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-11-334",
+      "id": "DonguriX14Y15-chosung-11-334",
       "bitmap": "0000000000001f002080208020802080208020801f0000000000000000000000",
       "type": "chosung",
       "typeIndex": 11,
@@ -2392,7 +2392,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-11-335",
+      "id": "DonguriX14Y15-chosung-11-335",
       "bitmap": "000000001f002080208020801f00000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 11,
@@ -2402,7 +2402,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-12-336",
+      "id": "DonguriX14Y15-chosung-12-336",
       "bitmap": "0000000000007fc004000400040004000a000a00110011002080404000000000",
       "type": "chosung",
       "typeIndex": 12,
@@ -2412,7 +2412,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-12-337",
+      "id": "DonguriX14Y15-chosung-12-337",
       "bitmap": "000000003fe00200020005000500088030600000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 12,
@@ -2422,7 +2422,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-12-342",
+      "id": "DonguriX14Y15-chosung-12-342",
       "bitmap": "000000007f000800080008000800080014001400140022002200410000000000",
       "type": "chosung",
       "typeIndex": 12,
@@ -2432,7 +2432,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-12-343",
+      "id": "DonguriX14Y15-chosung-12-343",
       "bitmap": "000000003f80040004000a000a00110020800000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 12,
@@ -2442,7 +2442,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-12-340",
+      "id": "DonguriX14Y15-chosung-12-340",
       "bitmap": "0000000000007fc004000400040004000a000a00110011002080404000000000",
       "type": "chosung",
       "typeIndex": 12,
@@ -2452,7 +2452,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-12-341",
+      "id": "DonguriX14Y15-chosung-12-341",
       "bitmap": "000000003f80040004000a000a00110020800000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 12,
@@ -2462,7 +2462,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-12-344",
+      "id": "DonguriX14Y15-chosung-12-344",
       "bitmap": "0000000000003ffe008000800140014002200c18300600000000000000000000",
       "type": "chosung",
       "typeIndex": 12,
@@ -2472,7 +2472,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-12-345",
+      "id": "DonguriX14Y15-chosung-12-345",
       "bitmap": "000000001ffc008001400630180c000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 12,
@@ -2482,7 +2482,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-12-350",
+      "id": "DonguriX14Y15-chosung-12-350",
       "bitmap": "0000000000007fc0040004000a000a00110060c0000000000000000000000000",
       "type": "chosung",
       "typeIndex": 12,
@@ -2492,7 +2492,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-12-351",
+      "id": "DonguriX14Y15-chosung-12-351",
       "bitmap": "000000003fe00200050008803060000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 12,
@@ -2502,7 +2502,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-12-348",
+      "id": "DonguriX14Y15-chosung-12-348",
       "bitmap": "0000000000007f00080008001400140022004100000000000000000000000000",
       "type": "chosung",
       "typeIndex": 12,
@@ -2512,7 +2512,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-12-349",
+      "id": "DonguriX14Y15-chosung-12-349",
       "bitmap": "000000003f8004000a0031800000000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 12,
@@ -2522,7 +2522,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-12-354",
+      "id": "DonguriX14Y15-chosung-12-354",
       "bitmap": "000000003ffe008001400630380e000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 12,
@@ -2532,7 +2532,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-12-355",
+      "id": "DonguriX14Y15-chosung-12-355",
       "bitmap": "000000001ffc008001400630180c000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 12,
@@ -2562,7 +2562,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-12-358",
+      "id": "DonguriX14Y15-chosung-12-358",
       "bitmap": "000000003f80040004000a003180000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 12,
@@ -2572,7 +2572,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-12-359",
+      "id": "DonguriX14Y15-chosung-12-359",
       "bitmap": "000000007f000800140063000000000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 12,
@@ -2582,7 +2582,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-12-362",
+      "id": "DonguriX14Y15-chosung-12-362",
       "bitmap": "0000000000007fc0040004000a000a00110060c0000000000000000000000000",
       "type": "chosung",
       "typeIndex": 12,
@@ -2592,7 +2592,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-12-363",
+      "id": "DonguriX14Y15-chosung-12-363",
       "bitmap": "000000003fe0020002000d803060000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 12,
@@ -2602,7 +2602,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-13-364",
+      "id": "DonguriX14Y15-chosung-13-364",
       "bitmap": "0000000000007fc0110011001100110011002a802a802a804440444000000000",
       "type": "chosung",
       "typeIndex": 13,
@@ -2612,7 +2612,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-13-365",
+      "id": "DonguriX14Y15-chosung-13-365",
       "bitmap": "000000003fe00880088008801540154022200000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 13,
@@ -2622,7 +2622,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-13-370",
+      "id": "DonguriX14Y15-chosung-13-370",
       "bitmap": "0000000000007fc0110011001100110011002a802a8024804440444000000000",
       "type": "chosung",
       "typeIndex": 13,
@@ -2632,7 +2632,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-13-371",
+      "id": "DonguriX14Y15-chosung-13-371",
       "bitmap": "000000007fc01100110011002a802a8044400000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 13,
@@ -2642,7 +2642,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-13-368",
+      "id": "DonguriX14Y15-chosung-13-368",
       "bitmap": "0000000000007fc0110011001100110011002a802a802a804440444000000000",
       "type": "chosung",
       "typeIndex": 13,
@@ -2652,7 +2652,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-13-369",
+      "id": "DonguriX14Y15-chosung-13-369",
       "bitmap": "000000007fc01100110011002a802a8044400000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 13,
@@ -2662,7 +2662,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-13-372",
+      "id": "DonguriX14Y15-chosung-13-372",
       "bitmap": "0000000000003ffe041004100a280a2811441144208200000000000000000000",
       "type": "chosung",
       "typeIndex": 13,
@@ -2672,7 +2672,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-13-373",
+      "id": "DonguriX14Y15-chosung-13-373",
       "bitmap": "000000003ffe041004100a2831c6000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 13,
@@ -2682,7 +2682,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-13-378",
+      "id": "DonguriX14Y15-chosung-13-378",
       "bitmap": "0000000000007fc01100110011002a802a804440000000000000000000000000",
       "type": "chosung",
       "typeIndex": 13,
@@ -2692,7 +2692,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-13-379",
+      "id": "DonguriX14Y15-chosung-13-379",
       "bitmap": "000000003fe00880154015402220000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 13,
@@ -2702,7 +2702,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-13-376",
+      "id": "DonguriX14Y15-chosung-13-376",
       "bitmap": "0000000000007f001400140014002a002a004900000000000000000000000000",
       "type": "chosung",
       "typeIndex": 13,
@@ -2712,7 +2712,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-13-377",
+      "id": "DonguriX14Y15-chosung-13-377",
       "bitmap": "000000003f800a000a0015002080000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 13,
@@ -2722,7 +2722,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-13-382",
+      "id": "DonguriX14Y15-chosung-13-382",
       "bitmap": "000000003ffe04100a280a281144208200000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 13,
@@ -2732,7 +2732,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-13-383",
+      "id": "DonguriX14Y15-chosung-13-383",
       "bitmap": "000000003ffe04100a280a2831c6000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 13,
@@ -2762,7 +2762,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-13-386",
+      "id": "DonguriX14Y15-chosung-13-386",
       "bitmap": "000000003f800a000a000a001500248000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 13,
@@ -2772,7 +2772,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-13-387",
+      "id": "DonguriX14Y15-chosung-13-387",
       "bitmap": "000000007f0014002a0049000000000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 13,
@@ -2782,7 +2782,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-13-390",
+      "id": "DonguriX14Y15-chosung-13-390",
       "bitmap": "0000000000007fc011001100110011002a802a80444000000000000000000000",
       "type": "chosung",
       "typeIndex": 13,
@@ -2792,7 +2792,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-13-391",
+      "id": "DonguriX14Y15-chosung-13-391",
       "bitmap": "000000003fe00880154015402220000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 13,
@@ -2802,7 +2802,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-14-392",
+      "id": "DonguriX14Y15-chosung-14-392",
       "bitmap": "000000001f00000000007fc0040004000a000a00110011002080404000000000",
       "type": "chosung",
       "typeIndex": 14,
@@ -2812,7 +2812,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-14-393",
+      "id": "DonguriX14Y15-chosung-14-393",
       "bitmap": "000000001f0000007fc004000a00110060c00000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 14,
@@ -2822,7 +2822,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-14-398",
+      "id": "DonguriX14Y15-chosung-14-398",
       "bitmap": "000000001c00000000007f000800080008001400140022002200410000000000",
       "type": "chosung",
       "typeIndex": 14,
@@ -2832,7 +2832,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-14-399",
+      "id": "DonguriX14Y15-chosung-14-399",
       "bitmap": "000000001c0000007f0008000800140063000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 14,
@@ -2842,7 +2842,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-14-396",
+      "id": "DonguriX14Y15-chosung-14-396",
       "bitmap": "000000001f00000000007fc0040004000a000a00110011002080404000000000",
       "type": "chosung",
       "typeIndex": 14,
@@ -2852,7 +2852,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-14-397",
+      "id": "DonguriX14Y15-chosung-14-397",
       "bitmap": "000000001f0000007fc0040004001b0060c00000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 14,
@@ -2862,7 +2862,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-14-400",
+      "id": "DonguriX14Y15-chosung-14-400",
       "bitmap": "0000000003e0000000001ffc0080008001400630380e00000000000000000000",
       "type": "chosung",
       "typeIndex": 14,
@@ -2872,7 +2872,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-14-401",
+      "id": "DonguriX14Y15-chosung-14-401",
       "bitmap": "0000000000801ffc008003601c1c000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 14,
@@ -2882,7 +2882,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-14-406",
+      "id": "DonguriX14Y15-chosung-14-406",
       "bitmap": "000000001f00000000007fc0040004001b0060c0000000000000000000000000",
       "type": "chosung",
       "typeIndex": 14,
@@ -2892,7 +2892,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-14-407",
+      "id": "DonguriX14Y15-chosung-14-407",
       "bitmap": "0000000004007fc00a00110060c0000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 14,
@@ -2902,7 +2902,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-14-404",
+      "id": "DonguriX14Y15-chosung-14-404",
       "bitmap": "000000001c00000000007f000800080014006300000000000000000000000000",
       "type": "chosung",
       "typeIndex": 14,
@@ -2912,7 +2912,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-14-405",
+      "id": "DonguriX14Y15-chosung-14-405",
       "bitmap": "0000000004003f800a0031800000000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 14,
@@ -2922,7 +2922,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-14-410",
+      "id": "DonguriX14Y15-chosung-14-410",
       "bitmap": "0000000003e000001ffc008001401e3c00000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 14,
@@ -2932,7 +2932,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-14-411",
+      "id": "DonguriX14Y15-chosung-14-411",
       "bitmap": "0000000003e000001ffc00801f7c000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 14,
@@ -2962,7 +2962,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-14-414",
+      "id": "DonguriX14Y15-chosung-14-414",
       "bitmap": "000000000e0000003f8004000a00318000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 14,
@@ -2972,7 +2972,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-14-415",
+      "id": "DonguriX14Y15-chosung-14-415",
       "bitmap": "0000000008007f00080077000000000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 14,
@@ -2982,7 +2982,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-14-418",
+      "id": "DonguriX14Y15-chosung-14-418",
       "bitmap": "000000001f00000000007fc0040004000a00110060c000000000000000000000",
       "type": "chosung",
       "typeIndex": 14,
@@ -2992,7 +2992,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-14-419",
+      "id": "DonguriX14Y15-chosung-14-419",
       "bitmap": "000000001f0000007fc004007bc0000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 14,
@@ -3002,7 +3002,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-15-420",
+      "id": "DonguriX14Y15-chosung-15-420",
       "bitmap": "0000000000003f000080008000803f8000800100010002000c00300000000000",
       "type": "chosung",
       "typeIndex": 15,
@@ -3012,7 +3012,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-15-421",
+      "id": "DonguriX14Y15-chosung-15-421",
       "bitmap": "000000003f80004000403fc0008003003c000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 15,
@@ -3022,7 +3022,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-15-426",
+      "id": "DonguriX14Y15-chosung-15-426",
       "bitmap": "0000000000003e000100010001003f0001000200020004000800300000000000",
       "type": "chosung",
       "typeIndex": 15,
@@ -3032,7 +3032,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-15-427",
+      "id": "DonguriX14Y15-chosung-15-427",
       "bitmap": "000000003e00010001003f0002000c0030000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 15,
@@ -3042,7 +3042,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-15-424",
+      "id": "DonguriX14Y15-chosung-15-424",
       "bitmap": "0000000000003e000100010001003f0001000200020004000800300000000000",
       "type": "chosung",
       "typeIndex": 15,
@@ -3052,7 +3052,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-15-425",
+      "id": "DonguriX14Y15-chosung-15-425",
       "bitmap": "000000003f00008000803f800100060038000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 15,
@@ -3062,7 +3062,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-15-428",
+      "id": "DonguriX14Y15-chosung-15-428",
       "bitmap": "0000000000001ff80004000400041ffc00040004000400080008000000000000",
       "type": "chosung",
       "typeIndex": 15,
@@ -3072,7 +3072,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-15-429",
+      "id": "DonguriX14Y15-chosung-15-429",
       "bitmap": "000000001ff800041ffc00040008000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 15,
@@ -3082,7 +3082,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-15-434",
+      "id": "DonguriX14Y15-chosung-15-434",
       "bitmap": "0000000000003f800040004000403fc000400040008000800000000000000000",
       "type": "chosung",
       "typeIndex": 15,
@@ -3092,7 +3092,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-15-435",
+      "id": "DonguriX14Y15-chosung-15-435",
       "bitmap": "000000003f8000403fc000400080000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 15,
@@ -3102,7 +3102,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-15-432",
+      "id": "DonguriX14Y15-chosung-15-432",
       "bitmap": "0000000000003e000100010001003f0001000100020002000000000000000000",
       "type": "chosung",
       "typeIndex": 15,
@@ -3112,7 +3112,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-15-433",
+      "id": "DonguriX14Y15-chosung-15-433",
       "bitmap": "000000003f0000803f8000800100000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 15,
@@ -3122,7 +3122,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-15-438",
+      "id": "DonguriX14Y15-chosung-15-438",
       "bitmap": "000000001ff8000400041ffc0004000800000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 15,
@@ -3132,7 +3132,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-15-439",
+      "id": "DonguriX14Y15-chosung-15-439",
       "bitmap": "000000001ff800041ffc00040008000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 15,
@@ -3162,7 +3162,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-15-442",
+      "id": "DonguriX14Y15-chosung-15-442",
       "bitmap": "0000000000003e00010001003f00010000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 15,
@@ -3172,7 +3172,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-15-443",
+      "id": "DonguriX14Y15-chosung-15-443",
       "bitmap": "000000007e0001007f0001000200000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 15,
@@ -3182,7 +3182,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-15-446",
+      "id": "DonguriX14Y15-chosung-15-446",
       "bitmap": "0000000000003f800040004000403fc000400040008000000000000000000000",
       "type": "chosung",
       "typeIndex": 15,
@@ -3192,7 +3192,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-15-447",
+      "id": "DonguriX14Y15-chosung-15-447",
       "bitmap": "000000003f80004000403fc00040000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 15,
@@ -3202,7 +3202,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-16-448",
+      "id": "DonguriX14Y15-chosung-16-448",
       "bitmap": "0000000000003f802000200020003f8020002000200020001fc0000000000000",
       "type": "chosung",
       "typeIndex": 16,
@@ -3212,7 +3212,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-16-449",
+      "id": "DonguriX14Y15-chosung-16-449",
       "bitmap": "000000003f80200020003f80200020001fc00000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 16,
@@ -3222,7 +3222,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-16-454",
+      "id": "DonguriX14Y15-chosung-16-454",
       "bitmap": "0000000000003e002000200020003e0020002000200020001f00000000000000",
       "type": "chosung",
       "typeIndex": 16,
@@ -3232,7 +3232,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-16-455",
+      "id": "DonguriX14Y15-chosung-16-455",
       "bitmap": "000000003f00200020003f00200020001f800000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 16,
@@ -3242,7 +3242,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-16-452",
+      "id": "DonguriX14Y15-chosung-16-452",
       "bitmap": "0000000000003f802000200020003f0020002000200020001fc0000000000000",
       "type": "chosung",
       "typeIndex": 16,
@@ -3252,7 +3252,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-16-453",
+      "id": "DonguriX14Y15-chosung-16-453",
       "bitmap": "000000003fc0200020003f80200020001fe00000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 16,
@@ -3262,7 +3262,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-16-456",
+      "id": "DonguriX14Y15-chosung-16-456",
       "bitmap": "0000000000001ffc100010001ffc100010000ffc000000000000000000000000",
       "type": "chosung",
       "typeIndex": 16,
@@ -3272,7 +3272,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-16-457",
+      "id": "DonguriX14Y15-chosung-16-457",
       "bitmap": "000000001ffc10001ffc10000ffc000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 16,
@@ -3282,7 +3282,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-16-462",
+      "id": "DonguriX14Y15-chosung-16-462",
       "bitmap": "0000000000003fc0200020003fc0200020001fc0000000000000000000000000",
       "type": "chosung",
       "typeIndex": 16,
@@ -3292,7 +3292,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-16-463",
+      "id": "DonguriX14Y15-chosung-16-463",
       "bitmap": "000000003fc020003fc020001fc0000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 16,
@@ -3302,7 +3302,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-16-460",
+      "id": "DonguriX14Y15-chosung-16-460",
       "bitmap": "0000000000003f0020003f00200020001f000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 16,
@@ -3312,7 +3312,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-16-461",
+      "id": "DonguriX14Y15-chosung-16-461",
       "bitmap": "000000003f8020003f8020001f80000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 16,
@@ -3322,7 +3322,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-16-466",
+      "id": "DonguriX14Y15-chosung-16-466",
       "bitmap": "000000001ffc10001ffc100010000ffc00000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 16,
@@ -3332,7 +3332,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-16-467",
+      "id": "DonguriX14Y15-chosung-16-467",
       "bitmap": "000000001ffc10001ffc10000ffc000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 16,
@@ -3362,7 +3362,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-16-470",
+      "id": "DonguriX14Y15-chosung-16-470",
       "bitmap": "000000003f0020003f00200020001f0000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 16,
@@ -3372,7 +3372,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-16-471",
+      "id": "DonguriX14Y15-chosung-16-471",
       "bitmap": "000000003f0020003f0020001f00000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 16,
@@ -3382,7 +3382,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-16-474",
+      "id": "DonguriX14Y15-chosung-16-474",
       "bitmap": "0000000000003fc0200020003fc0200020001fc0000000000000000000000000",
       "type": "chosung",
       "typeIndex": 16,
@@ -3392,7 +3392,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-16-475",
+      "id": "DonguriX14Y15-chosung-16-475",
       "bitmap": "000000003fc020003fc020001fc0000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 16,
@@ -3402,7 +3402,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-17-476",
+      "id": "DonguriX14Y15-chosung-17-476",
       "bitmap": "0000000000007fe00000108010801080108010801080090009007fe000000000",
       "type": "chosung",
       "typeIndex": 17,
@@ -3412,7 +3412,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-17-477",
+      "id": "DonguriX14Y15-chosung-17-477",
       "bitmap": "000000007fc000001100110011000a007fc00000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 17,
@@ -3422,7 +3422,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-17-482",
+      "id": "DonguriX14Y15-chosung-17-482",
       "bitmap": "0000000000007f000000220022002200220022002200140014007f8000000000",
       "type": "chosung",
       "typeIndex": 17,
@@ -3432,7 +3432,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-17-483",
+      "id": "DonguriX14Y15-chosung-17-483",
       "bitmap": "000000007f00000022002200220014007f000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 17,
@@ -3442,7 +3442,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-17-480",
+      "id": "DonguriX14Y15-chosung-17-480",
       "bitmap": "0000000000007f800000210021002100210021002100120012007fc000000000",
       "type": "chosung",
       "typeIndex": 17,
@@ -3452,7 +3452,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-17-481",
+      "id": "DonguriX14Y15-chosung-17-481",
       "bitmap": "000000007f80000021002100210012007f800000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 17,
@@ -3462,7 +3462,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-17-484",
+      "id": "DonguriX14Y15-chosung-17-484",
       "bitmap": "0000000000001ffc000004100410041002201ffc000000000000000000000000",
       "type": "chosung",
       "typeIndex": 17,
@@ -3472,7 +3472,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-17-485",
+      "id": "DonguriX14Y15-chosung-17-485",
       "bitmap": "000000001ffc0410041002201ffc000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 17,
@@ -3482,7 +3482,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-17-490",
+      "id": "DonguriX14Y15-chosung-17-490",
       "bitmap": "0000000000007fc0000011001100110011007fc0000000000000000000000000",
       "type": "chosung",
       "typeIndex": 17,
@@ -3492,7 +3492,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-17-491",
+      "id": "DonguriX14Y15-chosung-17-491",
       "bitmap": "000000003fe00880088008803fe0000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 17,
@@ -3502,7 +3502,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-17-488",
+      "id": "DonguriX14Y15-chosung-17-488",
       "bitmap": "0000000000007f80000012001200120012007f80000000000000000000000000",
       "type": "chosung",
       "typeIndex": 17,
@@ -3512,7 +3512,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-17-489",
+      "id": "DonguriX14Y15-chosung-17-489",
       "bitmap": "000000007f801200120012007f80000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 17,
@@ -3522,7 +3522,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-17-494",
+      "id": "DonguriX14Y15-chosung-17-494",
       "bitmap": "000000001ffc00000410041002201ffc00000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 17,
@@ -3532,7 +3532,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-17-495",
+      "id": "DonguriX14Y15-chosung-17-495",
       "bitmap": "000000001ffc0410041002201ffc000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 17,
@@ -3562,7 +3562,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-17-498",
+      "id": "DonguriX14Y15-chosung-17-498",
       "bitmap": "000000003f8000001100110011003f8000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 17,
@@ -3572,7 +3572,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-17-499",
+      "id": "DonguriX14Y15-chosung-17-499",
       "bitmap": "000000007f801200120012007f80000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 17,
@@ -3582,7 +3582,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-17-502",
+      "id": "DonguriX14Y15-chosung-17-502",
       "bitmap": "0000000000007fc0000020802080110011007fc0000000000000000000000000",
       "type": "chosung",
       "typeIndex": 17,
@@ -3592,7 +3592,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-17-503",
+      "id": "DonguriX14Y15-chosung-17-503",
       "bitmap": "000000007fc01100110011007fc0000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 17,
@@ -3602,7 +3602,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-18-504",
+      "id": "DonguriX14Y15-chosung-18-504",
       "bitmap": "000000001f00000000007fc000001f00208020802080208020801f0000000000",
       "type": "chosung",
       "typeIndex": 18,
@@ -3612,7 +3612,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-18-505",
+      "id": "DonguriX14Y15-chosung-18-505",
       "bitmap": "000000001e0000007f802100210021001e000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 18,
@@ -3622,7 +3622,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-18-510",
+      "id": "DonguriX14Y15-chosung-18-510",
       "bitmap": "000000001e00000000007f8000001e00210021002100210021001e0000000000",
       "type": "chosung",
       "typeIndex": 18,
@@ -3632,7 +3632,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-18-511",
+      "id": "DonguriX14Y15-chosung-18-511",
       "bitmap": "000000001e0000007f802100210021001e000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 18,
@@ -3642,7 +3642,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-18-508",
+      "id": "DonguriX14Y15-chosung-18-508",
       "bitmap": "000000001e00000000007f8000001e00210021002100210021001e0000000000",
       "type": "chosung",
       "typeIndex": 18,
@@ -3652,7 +3652,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-18-509",
+      "id": "DonguriX14Y15-chosung-18-509",
       "bitmap": "000000001e0000007f802100210021001e000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 18,
@@ -3662,7 +3662,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-18-512",
+      "id": "DonguriX14Y15-chosung-18-512",
       "bitmap": "0000000007f000003ffe00000ff81004100410040ff800000000000000000000",
       "type": "chosung",
       "typeIndex": 18,
@@ -3672,7 +3672,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-18-513",
+      "id": "DonguriX14Y15-chosung-18-513",
       "bitmap": "0000000007f000003ffe10040ff8000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 18,
@@ -3682,7 +3682,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-18-518",
+      "id": "DonguriX14Y15-chosung-18-518",
       "bitmap": "000000001f0000007fc000001f002080208020801f0000000000000000000000",
       "type": "chosung",
       "typeIndex": 18,
@@ -3692,7 +3692,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-18-519",
+      "id": "DonguriX14Y15-chosung-18-519",
       "bitmap": "0000000002003fe0104010400f80000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 18,
@@ -3702,7 +3702,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-18-516",
+      "id": "DonguriX14Y15-chosung-18-516",
       "bitmap": "000000001e0000007f8000001e002100210021001e0000000000000000000000",
       "type": "chosung",
       "typeIndex": 18,
@@ -3712,7 +3712,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-18-517",
+      "id": "DonguriX14Y15-chosung-18-517",
       "bitmap": "0000000004007fc0208020801f00000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 18,
@@ -3722,7 +3722,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-18-522",
+      "id": "DonguriX14Y15-chosung-18-522",
       "bitmap": "0000000003e000003ffe08080808080807f00000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 18,
@@ -3732,7 +3732,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-18-523",
+      "id": "DonguriX14Y15-chosung-18-523",
       "bitmap": "0000000003e000003ffe0808080807f000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 18,
@@ -3762,7 +3762,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-18-526",
+      "id": "DonguriX14Y15-chosung-18-526",
       "bitmap": "000000001e0000007f80210021001e0000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 18,
@@ -3772,7 +3772,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-18-527",
+      "id": "DonguriX14Y15-chosung-18-527",
       "bitmap": "000000001e0000007f8021001e00000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 18,
@@ -3782,7 +3782,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-18-530",
+      "id": "DonguriX14Y15-chosung-18-530",
       "bitmap": "000000001f0000007fc000001f002080208020801f0000000000000000000000",
       "type": "chosung",
       "typeIndex": 18,
@@ -3792,7 +3792,7 @@
       }
     },
     {
-      "id": "lgm16-chosung-18-531",
+      "id": "DonguriX14Y15-chosung-18-531",
       "bitmap": "0000000004007fc0208020801f00000000000000000000000000000000000000",
       "type": "chosung",
       "typeIndex": 18,
@@ -3802,7 +3802,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-0-532",
+      "id": "DonguriX14Y15-jungsung-0-532",
       "bitmap": "0000000000080008000800080008000e00080008000800080008000800080008",
       "type": "jungsung",
       "typeIndex": 0,
@@ -3812,7 +3812,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-0-533",
+      "id": "DonguriX14Y15-jungsung-0-533",
       "bitmap": "00000000000800080008000e0008000800080000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 0,
@@ -3842,7 +3842,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-0-536",
+      "id": "DonguriX14Y15-jungsung-0-536",
       "bitmap": "0000000000080008000800080008000e00080008000800080008000800080008",
       "type": "jungsung",
       "typeIndex": 0,
@@ -3852,7 +3852,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-0-537",
+      "id": "DonguriX14Y15-jungsung-0-537",
       "bitmap": "00000000000800080008000e0008000800080000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 0,
@@ -3862,7 +3862,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-0-540",
+      "id": "DonguriX14Y15-jungsung-0-540",
       "bitmap": "0000000000080008000800080008000e00080008000800080008000800080008",
       "type": "jungsung",
       "typeIndex": 0,
@@ -3872,7 +3872,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-0-541",
+      "id": "DonguriX14Y15-jungsung-0-541",
       "bitmap": "00000000000800080008000e0008000800080000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 0,
@@ -3922,7 +3922,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-1-544",
+      "id": "DonguriX14Y15-jungsung-1-544",
       "bitmap": "00000000002400240024002400240024003c0024002400240024002400240024",
       "type": "jungsung",
       "typeIndex": 1,
@@ -3932,7 +3932,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-1-545",
+      "id": "DonguriX14Y15-jungsung-1-545",
       "bitmap": "00000000002400240024003c0024002400240000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 1,
@@ -3962,7 +3962,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-1-548",
+      "id": "DonguriX14Y15-jungsung-1-548",
       "bitmap": "00000000002400240024002400240024003c0024002400240024002400240024",
       "type": "jungsung",
       "typeIndex": 1,
@@ -3972,7 +3972,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-1-549",
+      "id": "DonguriX14Y15-jungsung-1-549",
       "bitmap": "00000000002400240024003c0024002400240000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 1,
@@ -3982,7 +3982,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-1-552",
+      "id": "DonguriX14Y15-jungsung-1-552",
       "bitmap": "00000000002400240024002400240024003c0024002400240024002400240024",
       "type": "jungsung",
       "typeIndex": 1,
@@ -3992,7 +3992,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-1-553",
+      "id": "DonguriX14Y15-jungsung-1-553",
       "bitmap": "00000000002400240024003c0024002400240000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 1,
@@ -4042,7 +4042,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-2-556",
+      "id": "DonguriX14Y15-jungsung-2-556",
       "bitmap": "00000000000800080008000e0008000800080008000e00080008000800080008",
       "type": "jungsung",
       "typeIndex": 2,
@@ -4052,7 +4052,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-2-557",
+      "id": "DonguriX14Y15-jungsung-2-557",
       "bitmap": "000000000008000e00080008000e000800080008000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 2,
@@ -4082,7 +4082,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-2-560",
+      "id": "DonguriX14Y15-jungsung-2-560",
       "bitmap": "00000000000800080008000e0008000800080008000e00080008000800080008",
       "type": "jungsung",
       "typeIndex": 2,
@@ -4092,7 +4092,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-2-561",
+      "id": "DonguriX14Y15-jungsung-2-561",
       "bitmap": "000000000008000e00080008000e000800080008000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 2,
@@ -4102,7 +4102,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-2-564",
+      "id": "DonguriX14Y15-jungsung-2-564",
       "bitmap": "00000000000800080008000e0008000800080008000e00080008000800080008",
       "type": "jungsung",
       "typeIndex": 2,
@@ -4112,7 +4112,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-2-565",
+      "id": "DonguriX14Y15-jungsung-2-565",
       "bitmap": "000000000008000e00080008000e000800080008000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 2,
@@ -4162,7 +4162,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-3-568",
+      "id": "DonguriX14Y15-jungsung-3-568",
       "bitmap": "00000000002400240024003c00240024002400240024003c0024002400240024",
       "type": "jungsung",
       "typeIndex": 3,
@@ -4172,7 +4172,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-3-569",
+      "id": "DonguriX14Y15-jungsung-3-569",
       "bitmap": "0000000000240024003c00240024003c00240000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 3,
@@ -4202,7 +4202,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-3-572",
+      "id": "DonguriX14Y15-jungsung-3-572",
       "bitmap": "00000000002400240024003c00240024002400240024003c0024002400240024",
       "type": "jungsung",
       "typeIndex": 3,
@@ -4212,7 +4212,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-3-573",
+      "id": "DonguriX14Y15-jungsung-3-573",
       "bitmap": "0000000000240024003c00240024003c00240000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 3,
@@ -4222,7 +4222,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-3-576",
+      "id": "DonguriX14Y15-jungsung-3-576",
       "bitmap": "00000000002400240024003c00240024002400240024003c0024002400240024",
       "type": "jungsung",
       "typeIndex": 3,
@@ -4232,7 +4232,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-3-577",
+      "id": "DonguriX14Y15-jungsung-3-577",
       "bitmap": "0000000000240024003c00240024003c00240000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 3,
@@ -4282,7 +4282,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-4-580",
+      "id": "DonguriX14Y15-jungsung-4-580",
       "bitmap": "0000000000080008000800080008007800080008000800080008000800080008",
       "type": "jungsung",
       "typeIndex": 4,
@@ -4292,7 +4292,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-4-581",
+      "id": "DonguriX14Y15-jungsung-4-581",
       "bitmap": "0000000000080008000800780008000800080000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 4,
@@ -4322,7 +4322,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-4-584",
+      "id": "DonguriX14Y15-jungsung-4-584",
       "bitmap": "000000000008000800080008000800f800080008000800080008000800080008",
       "type": "jungsung",
       "typeIndex": 4,
@@ -4332,7 +4332,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-4-585",
+      "id": "DonguriX14Y15-jungsung-4-585",
       "bitmap": "0000000000080008000800f80008000800080000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 4,
@@ -4342,7 +4342,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-4-588",
+      "id": "DonguriX14Y15-jungsung-4-588",
       "bitmap": "0000000000080008000800080008003800080008000800080008000800080008",
       "type": "jungsung",
       "typeIndex": 4,
@@ -4352,7 +4352,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-4-589",
+      "id": "DonguriX14Y15-jungsung-4-589",
       "bitmap": "0000000000080008000800380008000800080000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 4,
@@ -4402,7 +4402,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-5-592",
+      "id": "DonguriX14Y15-jungsung-5-592",
       "bitmap": "000000000024002400240024002400e400240024002400240024002400240024",
       "type": "jungsung",
       "typeIndex": 5,
@@ -4412,7 +4412,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-5-593",
+      "id": "DonguriX14Y15-jungsung-5-593",
       "bitmap": "0000000000240024002400e40024002400240000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 5,
@@ -4442,7 +4442,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-5-596",
+      "id": "DonguriX14Y15-jungsung-5-596",
       "bitmap": "000000000024002400240024002401e400240024002400240024002400240024",
       "type": "jungsung",
       "typeIndex": 5,
@@ -4452,7 +4452,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-5-597",
+      "id": "DonguriX14Y15-jungsung-5-597",
       "bitmap": "0000000000240024002401e40024002400240000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 5,
@@ -4462,7 +4462,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-5-600",
+      "id": "DonguriX14Y15-jungsung-5-600",
       "bitmap": "000000000024002400240024002400e400240024002400240024002400240024",
       "type": "jungsung",
       "typeIndex": 5,
@@ -4472,7 +4472,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-5-601",
+      "id": "DonguriX14Y15-jungsung-5-601",
       "bitmap": "0000000000240024002400e40024002400240000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 5,
@@ -4522,7 +4522,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-6-604",
+      "id": "DonguriX14Y15-jungsung-6-604",
       "bitmap": "0000000000080008000800780008000800080078000800080008000800080008",
       "type": "jungsung",
       "typeIndex": 6,
@@ -4532,7 +4532,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-6-605",
+      "id": "DonguriX14Y15-jungsung-6-605",
       "bitmap": "00000000000800780008000800f8000800080000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 6,
@@ -4562,7 +4562,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-6-608",
+      "id": "DonguriX14Y15-jungsung-6-608",
       "bitmap": "0000000000080008000800780008000800080008007800080008000800080008",
       "type": "jungsung",
       "typeIndex": 6,
@@ -4572,7 +4572,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-6-609",
+      "id": "DonguriX14Y15-jungsung-6-609",
       "bitmap": "000000000008000800f8000800f8000800080000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 6,
@@ -4582,7 +4582,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-6-612",
+      "id": "DonguriX14Y15-jungsung-6-612",
       "bitmap": "0000000000080008000800780008000800080008007800080008000800080008",
       "type": "jungsung",
       "typeIndex": 6,
@@ -4592,7 +4592,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-6-613",
+      "id": "DonguriX14Y15-jungsung-6-613",
       "bitmap": "0000000000080038000800080038000800080000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 6,
@@ -4642,7 +4642,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-7-616",
+      "id": "DonguriX14Y15-jungsung-7-616",
       "bitmap": "0000000000240024002400e400240024002400e4002400240024002400240024",
       "type": "jungsung",
       "typeIndex": 7,
@@ -4652,7 +4652,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-7-617",
+      "id": "DonguriX14Y15-jungsung-7-617",
       "bitmap": "00000000002400e40024002400e4002400240000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 7,
@@ -4682,7 +4682,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-7-620",
+      "id": "DonguriX14Y15-jungsung-7-620",
       "bitmap": "0000000000240024002400e4002400240024002400e400240024002400240024",
       "type": "jungsung",
       "typeIndex": 7,
@@ -4692,7 +4692,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-7-621",
+      "id": "DonguriX14Y15-jungsung-7-621",
       "bitmap": "00000000002400e40024002400e4002400240000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 7,
@@ -4702,7 +4702,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-7-624",
+      "id": "DonguriX14Y15-jungsung-7-624",
       "bitmap": "0000000000240024002400e4002400240024002400e400240024002400240024",
       "type": "jungsung",
       "typeIndex": 7,
@@ -4712,7 +4712,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-7-625",
+      "id": "DonguriX14Y15-jungsung-7-625",
       "bitmap": "00000000002400e40024002400e4002400240000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 7,
@@ -4762,7 +4762,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-8-628",
+      "id": "DonguriX14Y15-jungsung-8-628",
       "bitmap": "000000000000000000000000000000000000010001000100010001003ffe0000",
       "type": "jungsung",
       "typeIndex": 8,
@@ -4772,7 +4772,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-8-629",
+      "id": "DonguriX14Y15-jungsung-8-629",
       "bitmap": "000000000000000000000080008000803ffe0000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 8,
@@ -4802,7 +4802,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-8-632",
+      "id": "DonguriX14Y15-jungsung-8-632",
       "bitmap": "000000000000000000000000000000000000000000000080008000803ffe0000",
       "type": "jungsung",
       "typeIndex": 8,
@@ -4812,7 +4812,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-8-633",
+      "id": "DonguriX14Y15-jungsung-8-633",
       "bitmap": "000000000000000000000000000000803ffe0000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 8,
@@ -4822,7 +4822,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-8-636",
+      "id": "DonguriX14Y15-jungsung-8-636",
       "bitmap": "000000000000000000000000000000000000000000000080008000803ffe0000",
       "type": "jungsung",
       "typeIndex": 8,
@@ -4832,7 +4832,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-8-637",
+      "id": "DonguriX14Y15-jungsung-8-637",
       "bitmap": "000000000000000000000000000000803ffe0000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 8,
@@ -4882,7 +4882,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-9-640",
+      "id": "DonguriX14Y15-jungsung-9-640",
       "bitmap": "0000000000080008000800080008000e040804080408040804087fe800080008",
       "type": "jungsung",
       "typeIndex": 9,
@@ -4892,7 +4892,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-9-641",
+      "id": "DonguriX14Y15-jungsung-9-641",
       "bitmap": "000000000008000800080408040e04083fe80008000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 9,
@@ -4922,7 +4922,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-9-644",
+      "id": "DonguriX14Y15-jungsung-9-644",
       "bitmap": "00000000000800080008000800080008000e00080008040804087fe800080008",
       "type": "jungsung",
       "typeIndex": 9,
@@ -4932,7 +4932,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-9-645",
+      "id": "DonguriX14Y15-jungsung-9-645",
       "bitmap": "000000000008000800080008020e02083fe80000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 9,
@@ -4942,7 +4942,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-9-648",
+      "id": "DonguriX14Y15-jungsung-9-648",
       "bitmap": "00000000000800080008000800080008000e00080408040804087fe800080008",
       "type": "jungsung",
       "typeIndex": 9,
@@ -4952,7 +4952,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-9-649",
+      "id": "DonguriX14Y15-jungsung-9-649",
       "bitmap": "000000000008000800080008000e02083fe80008000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 9,
@@ -5002,7 +5002,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-10-652",
+      "id": "DonguriX14Y15-jungsung-10-652",
       "bitmap": "00000000002400240024002400240024083c08240824082408247fa400240024",
       "type": "jungsung",
       "typeIndex": 10,
@@ -5012,7 +5012,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-10-653",
+      "id": "DonguriX14Y15-jungsung-10-653",
       "bitmap": "000000000024002400240424043c04243fe40000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 10,
@@ -5042,7 +5042,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-10-656",
+      "id": "DonguriX14Y15-jungsung-10-656",
       "bitmap": "00000000002400240024002400240024003c00240024082408247fa400240024",
       "type": "jungsung",
       "typeIndex": 10,
@@ -5052,7 +5052,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-10-657",
+      "id": "DonguriX14Y15-jungsung-10-657",
       "bitmap": "000000000024002400240024043c04243fe40000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 10,
@@ -5062,7 +5062,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-10-660",
+      "id": "DonguriX14Y15-jungsung-10-660",
       "bitmap": "00000000002400240024002400240024003c00240824082408247fa400240024",
       "type": "jungsung",
       "typeIndex": 10,
@@ -5072,7 +5072,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-10-661",
+      "id": "DonguriX14Y15-jungsung-10-661",
       "bitmap": "000000000024002400240024043c04243fe40000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 10,
@@ -5122,7 +5122,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-11-664",
+      "id": "DonguriX14Y15-jungsung-11-664",
       "bitmap": "00000000000800080008000800080008040804080408040804087fe800080008",
       "type": "jungsung",
       "typeIndex": 11,
@@ -5132,7 +5132,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-11-665",
+      "id": "DonguriX14Y15-jungsung-11-665",
       "bitmap": "000000000008000800080408040804083fe80000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 11,
@@ -5162,7 +5162,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-11-668",
+      "id": "DonguriX14Y15-jungsung-11-668",
       "bitmap": "00000000000800080008000800080008000800080008040804087fe800080008",
       "type": "jungsung",
       "typeIndex": 11,
@@ -5172,7 +5172,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-11-669",
+      "id": "DonguriX14Y15-jungsung-11-669",
       "bitmap": "000000000008000800080008040804083fe80000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 11,
@@ -5182,7 +5182,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-11-672",
+      "id": "DonguriX14Y15-jungsung-11-672",
       "bitmap": "00000000000800080008000800080008000800080008040804087fe800080008",
       "type": "jungsung",
       "typeIndex": 11,
@@ -5192,7 +5192,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-11-673",
+      "id": "DonguriX14Y15-jungsung-11-673",
       "bitmap": "000000000008000800080008000804083fe80000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 11,
@@ -5242,7 +5242,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-12-676",
+      "id": "DonguriX14Y15-jungsung-12-676",
       "bitmap": "000000000000000000000000000000000000044004400440044004403ffe0000",
       "type": "jungsung",
       "typeIndex": 12,
@@ -5252,7 +5252,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-12-677",
+      "id": "DonguriX14Y15-jungsung-12-677",
       "bitmap": "000000000000000000000440044004403ffe0000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 12,
@@ -5282,7 +5282,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-12-680",
+      "id": "DonguriX14Y15-jungsung-12-680",
       "bitmap": "000000000000000000000000000000000000000000000410041004103ffe0000",
       "type": "jungsung",
       "typeIndex": 12,
@@ -5292,7 +5292,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-12-681",
+      "id": "DonguriX14Y15-jungsung-12-681",
       "bitmap": "000000000000000000000000000004103ffe0000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 12,
@@ -5302,7 +5302,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-12-684",
+      "id": "DonguriX14Y15-jungsung-12-684",
       "bitmap": "000000000000000000000000000000000000000000000410041004103ffe0000",
       "type": "jungsung",
       "typeIndex": 12,
@@ -5312,7 +5312,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-12-685",
+      "id": "DonguriX14Y15-jungsung-12-685",
       "bitmap": "000000000000000000000000000004103ffe0000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 12,
@@ -5362,7 +5362,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-13-688",
+      "id": "DonguriX14Y15-jungsung-13-688",
       "bitmap": "0000000000000000000000000000000000003ffe008000800080008000800080",
       "type": "jungsung",
       "typeIndex": 13,
@@ -5372,7 +5372,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-13-689",
+      "id": "DonguriX14Y15-jungsung-13-689",
       "bitmap": "00000000000000000000000000003ffe00800080000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 13,
@@ -5402,7 +5402,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-13-692",
+      "id": "DonguriX14Y15-jungsung-13-692",
       "bitmap": "0000000000000000000000000000000000003ffe008000800080008000800080",
       "type": "jungsung",
       "typeIndex": 13,
@@ -5412,7 +5412,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-13-693",
+      "id": "DonguriX14Y15-jungsung-13-693",
       "bitmap": "000000000000000000000000000000003ffe0080008000000000000000000000",
       "type": "jungsung",
       "typeIndex": 13,
@@ -5422,7 +5422,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-13-696",
+      "id": "DonguriX14Y15-jungsung-13-696",
       "bitmap": "0000000000000000000000000000000000003ffe008000800080008000800080",
       "type": "jungsung",
       "typeIndex": 13,
@@ -5432,7 +5432,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-13-697",
+      "id": "DonguriX14Y15-jungsung-13-697",
       "bitmap": "000000000000000000000000000000003ffe0080008000000000000000000000",
       "type": "jungsung",
       "typeIndex": 13,
@@ -5482,7 +5482,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-14-700",
+      "id": "DonguriX14Y15-jungsung-14-700",
       "bitmap": "000000000008000800080008000800087fe80408040804f80408040808080008",
       "type": "jungsung",
       "typeIndex": 14,
@@ -5492,7 +5492,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-14-701",
+      "id": "DonguriX14Y15-jungsung-14-701",
       "bitmap": "00000000000800080008000800087fe804080478000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 14,
@@ -5522,7 +5522,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-14-704",
+      "id": "DonguriX14Y15-jungsung-14-704",
       "bitmap": "000000000008000800080008000800087fe80408040804f80408040808080008",
       "type": "jungsung",
       "typeIndex": 14,
@@ -5532,7 +5532,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-14-705",
+      "id": "DonguriX14Y15-jungsung-14-705",
       "bitmap": "00000000000800080008000800087fe804080438000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 14,
@@ -5542,7 +5542,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-14-708",
+      "id": "DonguriX14Y15-jungsung-14-708",
       "bitmap": "0000000000080008000800080008000800087fe8040804f80408040808080008",
       "type": "jungsung",
       "typeIndex": 14,
@@ -5552,7 +5552,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-14-709",
+      "id": "DonguriX14Y15-jungsung-14-709",
       "bitmap": "000000000008000800080008000800083fc80438040000000000000000000000",
       "type": "jungsung",
       "typeIndex": 14,
@@ -5602,7 +5602,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-15-712",
+      "id": "DonguriX14Y15-jungsung-15-712",
       "bitmap": "0000000000240024002400240024002400247fa40424042404e4042408240024",
       "type": "jungsung",
       "typeIndex": 15,
@@ -5612,7 +5612,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-15-713",
+      "id": "DonguriX14Y15-jungsung-15-713",
       "bitmap": "00000000002400240024002400247fa4082408e4000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 15,
@@ -5642,7 +5642,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-15-716",
+      "id": "DonguriX14Y15-jungsung-15-716",
       "bitmap": "0000000000240024002400240024002400247fa40424042404e4042408240024",
       "type": "jungsung",
       "typeIndex": 15,
@@ -5652,7 +5652,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-15-717",
+      "id": "DonguriX14Y15-jungsung-15-717",
       "bitmap": "00000000002400240024002400247fa4082408e4000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 15,
@@ -5662,7 +5662,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-15-720",
+      "id": "DonguriX14Y15-jungsung-15-720",
       "bitmap": "0000000000240024002400240024002400247fa40424042404e4042408240024",
       "type": "jungsung",
       "typeIndex": 15,
@@ -5672,7 +5672,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-15-721",
+      "id": "DonguriX14Y15-jungsung-15-721",
       "bitmap": "000000000024002400240024002400247f2408e4080000000000000000000000",
       "type": "jungsung",
       "typeIndex": 15,
@@ -5722,7 +5722,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-16-724",
+      "id": "DonguriX14Y15-jungsung-16-724",
       "bitmap": "000000000008000800080008000800087fe80408040804080408040808080008",
       "type": "jungsung",
       "typeIndex": 16,
@@ -5732,7 +5732,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-16-725",
+      "id": "DonguriX14Y15-jungsung-16-725",
       "bitmap": "00000000000800080008000800087fe804080408000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 16,
@@ -5762,7 +5762,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-16-728",
+      "id": "DonguriX14Y15-jungsung-16-728",
       "bitmap": "000000000008000800080008000800087fe80408040804080408040808080008",
       "type": "jungsung",
       "typeIndex": 16,
@@ -5772,7 +5772,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-16-729",
+      "id": "DonguriX14Y15-jungsung-16-729",
       "bitmap": "00000000000800080008000800087fe804080408000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 16,
@@ -5782,7 +5782,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-16-732",
+      "id": "DonguriX14Y15-jungsung-16-732",
       "bitmap": "0000000000080008000800080008000800087fe8040804080408040808080008",
       "type": "jungsung",
       "typeIndex": 16,
@@ -5792,7 +5792,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-16-733",
+      "id": "DonguriX14Y15-jungsung-16-733",
       "bitmap": "000000000008000800080008000800087fe80408000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 16,
@@ -5842,7 +5842,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-17-736",
+      "id": "DonguriX14Y15-jungsung-17-736",
       "bitmap": "0000000000000000000000000000000000003ffe041004100410041004100810",
       "type": "jungsung",
       "typeIndex": 17,
@@ -5852,7 +5852,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-17-737",
+      "id": "DonguriX14Y15-jungsung-17-737",
       "bitmap": "00000000000000000000000000003ffe04100410000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 17,
@@ -5882,7 +5882,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-17-740",
+      "id": "DonguriX14Y15-jungsung-17-740",
       "bitmap": "0000000000000000000000000000000000003ffe041004100410041004100810",
       "type": "jungsung",
       "typeIndex": 17,
@@ -5892,7 +5892,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-17-741",
+      "id": "DonguriX14Y15-jungsung-17-741",
       "bitmap": "000000000000000000000000000000003ffe0410041000000000000000000000",
       "type": "jungsung",
       "typeIndex": 17,
@@ -5902,7 +5902,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-17-744",
+      "id": "DonguriX14Y15-jungsung-17-744",
       "bitmap": "0000000000000000000000000000000000003ffe041004100410041004100810",
       "type": "jungsung",
       "typeIndex": 17,
@@ -5912,7 +5912,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-17-745",
+      "id": "DonguriX14Y15-jungsung-17-745",
       "bitmap": "000000000000000000000000000000003ffe0410041000000000000000000000",
       "type": "jungsung",
       "typeIndex": 17,
@@ -5962,7 +5962,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-18-748",
+      "id": "DonguriX14Y15-jungsung-18-748",
       "bitmap": "000000000000000000000000000000000000000000000000000000003ffe0000",
       "type": "jungsung",
       "typeIndex": 18,
@@ -5972,7 +5972,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-18-749",
+      "id": "DonguriX14Y15-jungsung-18-749",
       "bitmap": "00000000000000000000000000003ffe00000000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 18,
@@ -6002,7 +6002,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-18-752",
+      "id": "DonguriX14Y15-jungsung-18-752",
       "bitmap": "000000000000000000000000000000000000000000000000000000003ffe0000",
       "type": "jungsung",
       "typeIndex": 18,
@@ -6012,7 +6012,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-18-753",
+      "id": "DonguriX14Y15-jungsung-18-753",
       "bitmap": "000000000000000000000000000000003ffe0000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 18,
@@ -6022,7 +6022,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-18-756",
+      "id": "DonguriX14Y15-jungsung-18-756",
       "bitmap": "000000000000000000000000000000000000000000000000000000003ffe0000",
       "type": "jungsung",
       "typeIndex": 18,
@@ -6032,7 +6032,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-18-757",
+      "id": "DonguriX14Y15-jungsung-18-757",
       "bitmap": "000000000000000000000000000000003ffe0000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 18,
@@ -6082,7 +6082,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-19-760",
+      "id": "DonguriX14Y15-jungsung-19-760",
       "bitmap": "0000000000080008000800080008000800080008000800087fe8000800080008",
       "type": "jungsung",
       "typeIndex": 19,
@@ -6092,7 +6092,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-19-761",
+      "id": "DonguriX14Y15-jungsung-19-761",
       "bitmap": "000000000008000800080008000800087fe80000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 19,
@@ -6122,7 +6122,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-19-764",
+      "id": "DonguriX14Y15-jungsung-19-764",
       "bitmap": "00000000000800080008000800080008000800080008000800087fe800080008",
       "type": "jungsung",
       "typeIndex": 19,
@@ -6132,7 +6132,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-19-765",
+      "id": "DonguriX14Y15-jungsung-19-765",
       "bitmap": "000000000008000800080008000800087fe80000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 19,
@@ -6142,7 +6142,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-19-768",
+      "id": "DonguriX14Y15-jungsung-19-768",
       "bitmap": "00000000000800080008000800080008000800080008000800087fe800080008",
       "type": "jungsung",
       "typeIndex": 19,
@@ -6152,7 +6152,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-19-769",
+      "id": "DonguriX14Y15-jungsung-19-769",
       "bitmap": "000000000008000800080008000800087fe80008000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 19,
@@ -6202,7 +6202,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-20-772",
+      "id": "DonguriX14Y15-jungsung-20-772",
       "bitmap": "0000000000080008000800080008000800080008000800080008000800080008",
       "type": "jungsung",
       "typeIndex": 20,
@@ -6212,7 +6212,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-20-773",
+      "id": "DonguriX14Y15-jungsung-20-773",
       "bitmap": "0000000000080008000800080008000800080000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 20,
@@ -6242,7 +6242,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-20-776",
+      "id": "DonguriX14Y15-jungsung-20-776",
       "bitmap": "0000000000080008000800080008000800080008000800080008000800080008",
       "type": "jungsung",
       "typeIndex": 20,
@@ -6252,7 +6252,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-20-777",
+      "id": "DonguriX14Y15-jungsung-20-777",
       "bitmap": "0000000000080008000800080008000800080000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 20,
@@ -6262,7 +6262,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-20-780",
+      "id": "DonguriX14Y15-jungsung-20-780",
       "bitmap": "0000000000080008000800080008000800080008000800080008000800080008",
       "type": "jungsung",
       "typeIndex": 20,
@@ -6272,7 +6272,7 @@
       }
     },
     {
-      "id": "lgm16-jungsung-20-781",
+      "id": "DonguriX14Y15-jungsung-20-781",
       "bitmap": "0000000000080008000800080008000800080000000000000000000000000000",
       "type": "jungsung",
       "typeIndex": 20,
@@ -6332,7 +6332,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-1-785",
+      "id": "DonguriX14Y15-jongsung-1-785",
       "bitmap": "00000000000000000000000000000000000000001ff800040004000400040004",
       "type": "jongsung",
       "typeIndex": 1,
@@ -6452,7 +6452,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-2-792",
+      "id": "DonguriX14Y15-jongsung-2-792",
       "bitmap": "00000000000000000000000000000000000000003ef801040104010401040104",
       "type": "jongsung",
       "typeIndex": 2,
@@ -6572,7 +6572,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-3-799",
+      "id": "DonguriX14Y15-jongsung-3-799",
       "bitmap": "00000000000000000000000000000000000000003c10021002100228022802c6",
       "type": "jongsung",
       "typeIndex": 3,
@@ -6692,7 +6692,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-4-806",
+      "id": "DonguriX14Y15-jongsung-4-806",
       "bitmap": "0000000000000000000000000000000000000000100010001000100010000ffc",
       "type": "jongsung",
       "typeIndex": 4,
@@ -6812,7 +6812,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-5-813",
+      "id": "DonguriX14Y15-jongsung-5-813",
       "bitmap": "000000000000000000000000000000000000000011fc10201020102010500f8c",
       "type": "jongsung",
       "typeIndex": 5,
@@ -6932,7 +6932,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-6-820",
+      "id": "DonguriX14Y15-jongsung-6-820",
       "bitmap": "00000000000000000000000000000000000000001078100010fc104810840f78",
       "type": "jongsung",
       "typeIndex": 6,
@@ -7052,7 +7052,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-7-827",
+      "id": "DonguriX14Y15-jongsung-7-827",
       "bitmap": "00000000000000000000000000000000000000001ffc10001000100010000ffc",
       "type": "jongsung",
       "typeIndex": 7,
@@ -7172,7 +7172,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-8-834",
+      "id": "DonguriX14Y15-jongsung-8-834",
       "bitmap": "00000000000000000000000000000000000000001ff800041ffc100010000ffc",
       "type": "jongsung",
       "typeIndex": 8,
@@ -7292,7 +7292,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-9-841",
+      "id": "DonguriX14Y15-jongsung-9-841",
       "bitmap": "00000000000000000000000000000000000000001f7800841f84100410040f84",
       "type": "jongsung",
       "typeIndex": 9,
@@ -7412,7 +7412,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-10-848",
+      "id": "DonguriX14Y15-jongsung-10-848",
       "bitmap": "00000000000000000000000000000000000000001e7c01441f44104410440f3c",
       "type": "jongsung",
       "typeIndex": 10,
@@ -7532,7 +7532,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-11-855",
+      "id": "DonguriX14Y15-jongsung-11-855",
       "bitmap": "00000000000000000000000000000000000000001e4401441f7c104410440f3c",
       "type": "jongsung",
       "typeIndex": 11,
@@ -7652,7 +7652,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-12-862",
+      "id": "DonguriX14Y15-jongsung-12-862",
       "bitmap": "00000000000000000000000000000000000000001e1001101f10102810280fc6",
       "type": "jongsung",
       "typeIndex": 12,
@@ -7772,7 +7772,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-13-869",
+      "id": "DonguriX14Y15-jongsung-13-869",
       "bitmap": "00000000000000000000000000000000000000001e7c01401f7c104010400f3c",
       "type": "jongsung",
       "typeIndex": 13,
@@ -7892,7 +7892,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-14-876",
+      "id": "DonguriX14Y15-jongsung-14-876",
       "bitmap": "00000000000000000000000000000000000000001efc01481f48104810480ffc",
       "type": "jongsung",
       "typeIndex": 14,
@@ -8012,7 +8012,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-15-883",
+      "id": "DonguriX14Y15-jongsung-15-883",
       "bitmap": "00000000000000000000000000000000000000001c7802001efc104810840e78",
       "type": "jongsung",
       "typeIndex": 15,
@@ -8132,7 +8132,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-16-890",
+      "id": "DonguriX14Y15-jongsung-16-890",
       "bitmap": "00000000000000000000000000000000000000001ffc10041004100410040ffc",
       "type": "jongsung",
       "typeIndex": 16,
@@ -8252,7 +8252,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-17-897",
+      "id": "DonguriX14Y15-jongsung-17-897",
       "bitmap": "0000000000000000000000000000000000000000100410041ffc100410040ff8",
       "type": "jongsung",
       "typeIndex": 17,
@@ -8372,7 +8372,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-18-904",
+      "id": "DonguriX14Y15-jongsung-18-904",
       "bitmap": "0000000000000000000000000000000000000000111011101f10111011280ec6",
       "type": "jongsung",
       "typeIndex": 18,
@@ -8492,7 +8492,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-19-911",
+      "id": "DonguriX14Y15-jongsung-19-911",
       "bitmap": "000000000000000000000000000000000000000000800080014002200410180c",
       "type": "jongsung",
       "typeIndex": 19,
@@ -8612,7 +8612,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-20-918",
+      "id": "DonguriX14Y15-jongsung-20-918",
       "bitmap": "00000000000000000000000000000000000000000410041004100a280a2831c6",
       "type": "jongsung",
       "typeIndex": 20,
@@ -8732,7 +8732,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-21-925",
+      "id": "DonguriX14Y15-jongsung-21-925",
       "bitmap": "00000000000000000000000000000000000000000ff810041004100410040ff8",
       "type": "jongsung",
       "typeIndex": 21,
@@ -8852,7 +8852,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-22-932",
+      "id": "DonguriX14Y15-jongsung-22-932",
       "bitmap": "00000000000000000000000000000000000000001ffc0080008001400630180c",
       "type": "jongsung",
       "typeIndex": 22,
@@ -8972,7 +8972,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-23-939",
+      "id": "DonguriX14Y15-jongsung-23-939",
       "bitmap": "000000000000000000000000000000000000000003e000001ffc008003601c1c",
       "type": "jongsung",
       "typeIndex": 23,
@@ -9092,7 +9092,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-24-946",
+      "id": "DonguriX14Y15-jongsung-24-946",
       "bitmap": "00000000000000000000000000000000000000001ff800041ffc000400040004",
       "type": "jongsung",
       "typeIndex": 24,
@@ -9212,7 +9212,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-25-953",
+      "id": "DonguriX14Y15-jongsung-25-953",
       "bitmap": "00000000000000000000000000000000000000001ffc10001ffc100010000ffc",
       "type": "jongsung",
       "typeIndex": 25,
@@ -9332,7 +9332,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-26-960",
+      "id": "DonguriX14Y15-jongsung-26-960",
       "bitmap": "00000000000000000000000000000000000000001ffc04100410041004101ffc",
       "type": "jongsung",
       "typeIndex": 26,
@@ -9452,7 +9452,7 @@
       }
     },
     {
-      "id": "lgm16-jongsung-27-967",
+      "id": "DonguriX14Y15-jongsung-27-967",
       "bitmap": "000000000000000000000000000000000000000007f000001ffc0808080807f0",
       "type": "jongsung",
       "typeIndex": 27,

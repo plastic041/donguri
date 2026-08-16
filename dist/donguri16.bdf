@@ -1,12 +1,13 @@
 STARTFONT 2.1
-FONT -Made with Bits'n'Picas by Kreative Software-Soft N Dry-Regular-R-Regular--16-16-75-75-c-80-iso10646-1
+FONT -Donguri16 Project Authors; plastic041@icloud.com-Donguri16-Regular-R-Regular--16-16-75-75-c-80-iso10646-1
 SIZE 16 75 75
 FONTBOUNDINGBOX 15 15 0 -2
-STARTPROPERTIES 9
-FAMILY_NAME "Soft N Dry"
+STARTPROPERTIES 10
+FAMILY_NAME "Donguri16"
 WEIGHT_NAME "Regular"
-FONT_VERSION "Version 1.0"
-FOUNDRY "Made with Bits'n'Picas by Kreative Software"
+FONT_VERSION "2026-08-16"
+COPYRIGHT "Donguri16 Project Authors; Copyright (c) 2026 plastic041@icloud.com"
+FOUNDRY "Donguri16 Project Authors; plastic041@icloud.com"
 FONT_ASCENT 14
 FONT_DESCENT 2
 POINT_SIZE 16
