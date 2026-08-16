@@ -1,6 +1,6 @@
 # 동구리16
 
-https://raw.githubusercontent.com/plastic041/donguri/refs/heads/main/scripts/preview.png
+<img src="https://raw.githubusercontent.com/plastic041/donguri/refs/heads/main/scripts/preview.png">
 
 16x16 한글 비트맵 폰트.
 
