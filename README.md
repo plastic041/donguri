@@ -10,3 +10,8 @@
 
 - 한글 자형(`/src/donguri16.json`): Bithangul (https://github.com/quiple/bithangul)
 - 한글 이외 자형: Bits'N'Picas (https://github.com/kreativekorp/bitsnpicas)
+
+## 할 일
+
+- [ ] 자형 더 추가
+- [ ] 웹폰트 제공
