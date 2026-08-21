@@ -1,5 +1,5 @@
-feature liga {
+feature calt {
 	substitute hyphen greater by u100000;
 	substitute equal greater by u100001;
-} liga;
+} calt;
 
