@@ -17,6 +17,9 @@ echo "using Font Patcher from $1."
 fontforge -script $1/font-patcher ../dist/donguri16.ttf --complete --careful -out ../dist/
 fontforge -script $1/font-patcher ../dist/donguri16.ttf --complete --careful --mono -out ../dist/
 
+echo "making preview images..."
+uv run image.py
+
 rm ../dist/donguri16-base.ttf
 
 echo "Done!"
