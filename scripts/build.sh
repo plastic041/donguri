@@ -7,6 +7,7 @@ mkdir ../dist
 
 echo "building new font files..."
 java -jar BitsNPicas.jar convertbitmap -f bdf -o ./temp/donguri16-latin.bdf ../src/donguri16-latin.kbitx
+java -jar BitsNPicas.jar convertbitmap -f bdf -o ./temp/donguri16-latin-term.bdf ../src/donguri16-latin-term.kbitx
 java -jar BitsNPicas.jar convertbitmap -f bdf -o ./temp/donguri16-base.bdf ../src/donguri16.kbitx
 java -jar BitsNPicas.jar convertbitmap -f bdf -o ./temp/donguri16-slim-base.bdf ../src/donguri16-slim.kbitx
 

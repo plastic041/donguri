@@ -5,7 +5,7 @@ def merge_font(source: str, target: str, term: bool):
   latin = []
     
   if term:
-    with open("./temp/donguri16-latin.bdf") as f:
+    with open("./temp/donguri16-latin-term.bdf") as f:
       latin = f.readlines()
   else:
     with open("./temp/donguri16-latin.bdf") as f:
