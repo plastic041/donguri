@@ -45,5 +45,7 @@ wait
 echo "making preview images..."
 uv run image.py
 
+rm -rf ./temp
+
 echo "Done!"
 
