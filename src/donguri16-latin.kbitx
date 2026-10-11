@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE kbits PUBLIC "-//Kreative//DTD BitsNPicasBitmap 1.0//EN" "http://www.kreativekorp.com/dtd/kbitx.dtd">
 <kbits>
-<prop id="emAscent" value="17"/>
-<prop id="emDescent" value="4"/>
-<prop id="lineAscent" value="17"/>
-<prop id="lineDescent" value="4"/>
+<prop id="emAscent" value="14"/>
+<prop id="emDescent" value="2"/>
+<prop id="lineAscent" value="14"/>
+<prop id="lineDescent" value="2"/>
 <prop id="lineGap" value="0"/>
 <prop id="xHeight" value="9"/>
 <prop id="capHeight" value="13"/>
