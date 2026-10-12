@@ -7,7 +7,7 @@
 <prop id="lineDescent" value="1"/>
 <prop id="lineGap" value="0"/>
 <prop id="xHeight" value="9"/>
-<prop id="capHeight" value="13"/>
+<prop id="capHeight" value="12"/>
 <prop id="newGlyphWidth" value="16"/>
 <name id="0" value="Copyright (c) Keitarou Hiraki, Font Silo. 1990-2015"/>
 <name id="1" value="KH Dot Akihabara 16"/>
