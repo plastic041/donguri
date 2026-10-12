@@ -10,6 +10,7 @@ java -jar BitsNPicas.jar convertbitmap -f bdf -o ./temp/donguri16-latin.bdf ../s
 java -jar BitsNPicas.jar convertbitmap -f bdf -o ./temp/donguri16-latin-term.bdf ../src/donguri16-latin-term.kbitx
 java -jar BitsNPicas.jar convertbitmap -f bdf -o ./temp/donguri16-base.bdf ../src/donguri16.kbitx
 java -jar BitsNPicas.jar convertbitmap -f bdf -o ./temp/donguri16-slim-base.bdf ../src/donguri16-slim.kbitx
+java -jar BitsNPicas.jar convertbitmap -f bdf -o ./temp/kh_akihabara.bdf ../src/kh_akihabara.kbitx
 
 echo "merging font files..."
 uv run merge.py
@@ -19,6 +20,8 @@ java -jar BitsNPicas.jar convertbitmap -f ttf -o ./temp/donguri16-base-term.ttf 
 java -jar BitsNPicas.jar convertbitmap -f ttf -o ./temp/donguri16-slim-base-term.ttf ./temp/donguri16-slim-base-with-latin-term.bdf & 
 java -jar BitsNPicas.jar convertbitmap -f ttf -o ../dist/donguri16.ttf ./temp/donguri16-base-with-latin.bdf & 
 java -jar BitsNPicas.jar convertbitmap -f ttf -o ../dist/donguri16-slim.ttf ./temp/donguri16-slim-base-with-latin.bdf &
+java -jar BitsNPicas.jar convertbitmap -f ttf -o ../dist/donguri16-jp.ttf ./temp/donguri16-base-with-latin-jp.bdf &
+java -jar BitsNPicas.jar convertbitmap -f ttf -o ../dist/donguri16-slim-jp.ttf ./temp/donguri16-slim-base-with-latin-jp.bdf &
 wait
 
 echo "making ligatures..."
@@ -31,15 +34,17 @@ fonttools ttLib ../dist/donguri16-term.ttf --flavor woff2 -o ../dist/donguri16-t
 fonttools ttLib ../dist/donguri16-slim-term.ttf --flavor woff2 -o ../dist/donguri16-slim-term.woff2 & 
 fonttools ttLib ../dist/donguri16.ttf --flavor woff2 -o ../dist/donguri16.woff2 & 
 fonttools ttLib ../dist/donguri16-slim.ttf --flavor woff2 -o ../dist/donguri16-slim.woff2 & 
+fonttools ttLib ../dist/donguri16-jp.ttf --flavor woff2 -o ../dist/donguri16-jp.woff2 & 
+fonttools ttLib ../dist/donguri16-slim-jp.ttf --flavor woff2 -o ../dist/donguri16-slim-jp.woff2 & 
 wait
 
 
 echo "building nerd fonts..."
 echo "using Font Patcher from $1."
-fontforge -script $1/font-patcher ../dist/donguri16-term.ttf --complete --careful -q -out ../dist/ & 
-fontforge -script $1/font-patcher ../dist/donguri16-term.ttf --complete --careful -q --mono -out ../dist/ & 
-fontforge -script $1/font-patcher ../dist/donguri16-slim-term.ttf --complete --careful -q -out ../dist/ & 
-fontforge -script $1/font-patcher ../dist/donguri16-slim-term.ttf --complete --careful -q --mono -out ../dist/ &
+fontforge -script $1/font-patcher ../dist/donguri16-term.ttf --complete --careful -q --name "Donguri16Term NF" -out ../dist/ & 
+fontforge -script $1/font-patcher ../dist/donguri16-term.ttf --complete --careful -q --mono --name "Donguri16Term NFM" -out ../dist/ & 
+fontforge -script $1/font-patcher ../dist/donguri16-slim-term.ttf --complete --careful -q --name "Donguri16SlimTerm NF" -out ../dist/ & 
+fontforge -script $1/font-patcher ../dist/donguri16-slim-term.ttf --complete --careful -q --name "Donguri16SlimTerm NFM" --mono -out ../dist/ &
 wait
 
 echo "making preview images..."
