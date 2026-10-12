@@ -36,10 +36,10 @@ wait
 
 echo "building nerd fonts..."
 echo "using Font Patcher from $1."
-fontforge -script $1/font-patcher ../dist/donguri16-term.ttf --complete --careful -out ../dist/ & 
-fontforge -script $1/font-patcher ../dist/donguri16-term.ttf --complete --careful --mono -out ../dist/ & 
-fontforge -script $1/font-patcher ../dist/donguri16-slim-term.ttf --complete --careful -out ../dist/ & 
-fontforge -script $1/font-patcher ../dist/donguri16-slim-term.ttf --complete --careful --mono -out ../dist/ &
+fontforge -script $1/font-patcher ../dist/donguri16-term.ttf --complete --careful -q -out ../dist/ & 
+fontforge -script $1/font-patcher ../dist/donguri16-term.ttf --complete --careful -q --mono -out ../dist/ & 
+fontforge -script $1/font-patcher ../dist/donguri16-slim-term.ttf --complete --careful -q -out ../dist/ & 
+fontforge -script $1/font-patcher ../dist/donguri16-slim-term.ttf --complete --careful -q --mono -out ../dist/ &
 wait
 
 echo "making preview images..."
